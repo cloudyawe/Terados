@@ -1,0 +1,1577 @@
+CAPITOLO 1: Gestione, Archiviazione e Aggiornamento dei File
+Il Mondo di Mawu
+
+
+Tipo: Documento Fondativo – Primario
+Stato: Canon
+Ruolo del documento e gerarchia canon
+Il presente documento costituisce il Documento Fondativo Primario del progetto Il Mondo di Mawu.
+
+Esso rappresenta la fonte di autorità massima per quanto riguarda il metodo di lavoro, la gestione delle informazioni, l’archiviazione dei materiali, le procedure operative e i criteri decisionali.
+
+Tutti gli altri documenti del progetto sono subordinati a questo file.
+
+In caso di conflitto, discrepanza, ambiguità o interpretazione divergente, quanto stabilito in questo documento prevale sempre.
+0.1 Ordine di lettura obbligatorio dei documenti fondativi
+Ogni operazione di creazione, modifica, verifica o aggiornamento di contenuti canon deve rispettare il seguente ordine di lettura vincolante:
+
+1. Gestione, Archiviazione e Aggiornamento dei File
+2. Terminologia e Nomenclatura
+3. Principi Biologici del Mondo
+
+Questo ordine non è opzionale e non può essere ignorato.
+0.2 Regola di non-assunzione
+In assenza di una regola esplicita contenuta nel presente documento, non è consentito procedere per deduzione, assunzione o interpretazione autonoma.
+
+In tali casi l’operazione deve essere sospesa, la decisione chiarita e la regola risultante consolidata in questo documento prima di procedere.
+
+
+Gestione, Archiviazione e Aggiornamento dei File
+Il Mondo di Mawu
+
+1. Scopo e principi generali
+Questo documento definisce le regole operative vincolanti per la gestione, l’archiviazione e l’aggiornamento dei materiali del progetto Il Mondo di Mawu.
+Nessuna informazione diventa parte del canon senza un consolidamento esplicito.
+Tutti i contenuti narrativi, descrittivi o informativi sono considerati situati, parziali o soggettivi fino a consolidamento.
+2. Struttura di archiviazione del progetto
+I documenti del progetto sono organizzati secondo una struttura in capitoli, gerarchica e vincolante. La struttura definisce l’organizzazione archivistica; il significato e lo statuto dei contenuti sono definiti nelle sezioni seguenti.
+
+Il_Mondo_di_Mawu/
+
+?? 00_Documento_Fondativo/
+?? 01_Geografia/
+?  ?? 00_Mondo/
+?  ?? 01_Continenti/
+?  ?? 02_Territori_e_Nazioni/
+?  ?? 03_Isole/
+?  ?? 99_Mappe/
+?? 02_Storia/
+?? 03_Creature
+?? 04_Culture/
+?? 05_Personaggi/
+?? 06_Sessioni/
+3. Documento_Fondativo
+Questo capitolointroduttivo , denominato Documento_Fondativo contiene esclusivamente i documenti regolativi e strutturali del progetto.
+I documenti qui archiviati definiscono principi e regole, sono vincolanti per tutti gli altri file e non descrivono eventi, luoghi o personaggi specifici.
+In caso di discrepanza, i documenti contenuti in 00_Documento_Fondativo prevalgono sempre su qualunque altro contenuto.
+3.1 Nominazione dei file
+I vari capitoli non includono qualificatori di statuto nel nome del file (ad es. “fondativo”, “canon”, “final”, versioni).
+Il loro ruolo è determinato dalla collocazione nella cartella.
+Formato: <Titolo>.docx
+4. 01_Geografia
+La cartella 01_Geografia contiene i documenti relativi alla struttura geografica del mondo di gioco.
+Ogni file geografico descrive un solo oggetto geografico. I personaggi possono essere citati, ma non descritti in modo dettagliato.
+4.1 01_Continenti
+Ogni continente è descritto tramite un singolo file Word, senza sottocartelle.
+Nominazione: <Nome_del_Continente>.docx (es. Terados.docx)
+4.2 02_Territori_e_Nazioni
+Ogni territorio o nazione è descritto tramite un singolo file Word, senza sottocartelle.
+Nominazione: <Nome>.docx (es. Meridia.docx; La_Valle.docx; Naam.docx)
+Gli insediamenti appartenenti a un territorio/nazione sono descritti come sezioni interne nello stesso file <Nome>.docx.
+Non vengono più creati file separati per gli insediamenti, salvo eccezioni definite nel presente documento.
+4.3 03_Isole
+Ogni isola è descritta tramite un singolo file Word, senza sottocartelle.
+Nominazione: <Nome>.docx (es. Nuuwaa.docx)
+4.4 04_Insediamenti
+4.4 04_Insediamenti
+Gli insediamenti non sono descritti tramite file Word autonomi.
+Ogni insediamento è descritto come sezione strutturata all’interno del file del territorio o nazione di appartenenza, archiviato in:
+01_Geografia/02_Territori_e_Nazioni/
+Di conseguenza, la sottocartella:
+01_Geografia/04_Insediamenti/
+non viene più utilizzata per contenuti canon.
+Eccezioni:
+Un insediamento può essere estratto in un file autonomo solo in casi eccezionali (ad es. necessità operative, dimensione del materiale, uso frequente in sessione).
+In tali casi, la regola e la nominazione devono essere prima consolidate tramite modifica esplicita del presente Documento Fondativo Primario.
+4.5 99_Mappe
+La sottocartella 99_Mappe contiene esclusivamente mappe canoniche in formato PDF.
+Le mappe hanno valore informativo vincolante per posizioni relative, distanze e confini.
+Nominazione: Mappa_<Ambito>.pdf (es. Mappa_Isola_Nuuwaa.pdf; Mappa_Territorio_La_Valle.pdf)
+5. 02_Storia
+La cartella 02_Storia contiene la storia del mondo, distinguendo tra fatti attestati, tradizioni mitiche e conoscenza frammentaria.
+Al momento non prevede una struttura interna vincolante. L’organizzazione potrà essere definita in seguito in base all’uso effettivo.
+Le informazioni storiche non derivano automaticamente dalle sessioni; diventano parte del canon solo dopo consolidamento esplicito in documenti appropriati.
+6. 03_Creature
+La cartella 03_Creature contiene un unico file Word che raccoglie tutte le creature come specie o tipologie (non individui).
+6.1 File unico
+Nome file: Creature.docx
+6.2 Template Creatura (obbligatorio)
+Ogni creatura inserita in Creature.docx deve usare il seguente template standardizzato:
+* Nome comune
+* Tipo
+* Descrizione generale
+* Comportamento
+* Habitat
+* Distribuzione
+* Interazioni con altre specie
+* Ruolo ecologico
+* Note canon
+7. 04_Culture
+La cartella 04_Culture contiene i documenti relativi a culture, tradizioni e strutture sociali collettive.
+Al momento non prevede una struttura interna vincolante. L’organizzazione potrà essere definita in seguito in base all’uso effettivo.
+Le culture non coincidono necessariamente con territori o nazioni e possono attraversare più luoghi e periodi.
+8. 05_Personaggi
+La cartella 05_Personaggi contiene i documenti relativi agli individui (PNG, PG e il personaggio del giocatore principale).
+8.1 Template PNG (vincolante)
+Tutti i PNG devono essere descritti con il seguente template:
+* Nome
+* Razza
+* Ruolo pubblico
+* Luogo associato
+* Affiliazioni
+* Status
+* Livello di conoscenza
+* Tratti di carattere osservati
+* Descrizione canon
+* Note canon
+8.2 Template PG
+I PG utilizzano un template distinto:
+* Nome del personaggio
+* Razza
+* Classe / Archetipo (se rilevante)
+* Background
+* Personalità (interna)
+* Tratti caratteriali notati (percepiti e interpretati dal punto di vista del personaggio)
+* Legami e relazioni
+* Motivazioni
+* Evoluzione del personaggio
+* Segreti o informazioni non pubbliche
+* Note di gioco
+8.3 Personaggio del giocatore principale
+Per il personaggio del giocatore principale non è previsto alcun template vincolante.
+Tutto ciò che viene scritto o raccontato su questo personaggio rappresenta il suo/tuo punto di vista e/o scoperta: può includere interpretazioni soggettive, ipotesi, errori e conoscenze incomplete.
+Le informazioni diventano canon solo dopo consolidamento esplicito nei documenti appropriati.
+9. teggio e segnala eventuali ambiguità.
+9. Sessioni
+
+La cartella 06_Sessioni contiene il diario cumulativo delle sessioni di gioco, redatto dal punto di vista del personaggio del giocatore principale.
+
+9.1 File unico
+
+La cartella contiene un unico file Word denominato:
+
+Diario_di_MessiLina.docx
+
+Questo file raccoglie progressivamente tutte le sessioni di gioco.
+
+9.2 Struttura interna obbligatoria
+
+All’interno di Diario_di_MessiLina.docx, ogni sessione deve essere inserita come sezione autonoma, secondo la seguente struttura obbligatoria:
+
+SESSIONE XX
+
+Data in-universe:
+Giorni in-universe (inizio ? fine):
+
+1) Riepilogo della sessione (template strutturato)
+
+- Luoghi principali
+- Personaggi incontrati
+- Creature incontrate
+- Eventi rilevanti
+- Scoperte storiche / indizi rilevanti
+- Scoperte / informazioni apprese
+- Tempo trascorso
+
+2) Diario narrativo
+
+Testo in forma narrativa dal punto di vista del personaggio principale.
+
+9.3 Tempo in-universe
+
+Il tempo in-universe è tracciato in modo continuo da una sessione all’altra.
+
+Ogni nuova sessione deve indicare chiaramente:
+
+- data di inizio
+- data di fine
+- durata in giorni
+
+L’assistente mantiene il conteggio cumulativo e segnala eventuali ambiguità o incoerenze temporali.
+
+9.4 Analisi automatica post-sessione
+
+Dopo ogni richiesta di aggiornamento del file canon Word Diario_di_MessiLina.docx, l’assistente esegue automaticamente:
+
+- analisi delle informazioni emerse
+- individuazione dei file canon esistenti da aggiornare
+- proposta di inserimento nei file appropriati
+- segnalazione di eventuali incoerenze
+- proposta di creazione di nuovi file canon, se necessario
+
+9.5 Statuto delle informazioni di sessione
+
+Le informazioni contenute nel diario rappresentano la prospettiva del personaggio principale.
+
+Esse diventano parte del canon oggettivo solo dopo consolidamento esplicito nei documenti appropriati (Geografia, Storia, Creature, Personaggi, Culture, ecc.).
+
+10. Procedure operative generali
+Queste procedure si applicano ogni volta che viene richiesto di creare un file canon Word, indipendentemente dalla categoria (geografia, storia, creature, culture, personaggi, sessioni, ecc.).
+10.1 Analisi automatica
+Ogni volta che viene richiesto di creare un file canon Word, l’assistente:
+* analizza automaticamente le informazioni fornite
+* individua i file canon da aggiornare
+* se un’informazione non trova collocazione, propone la creazione di un nuovo file canon
+* crea, se necessario, un file canon dedicato alle informazioni in sospeso
+* propone gli inserimenti necessari e segnala eventuali incoerenze con materiale già approvato
+10.2 Aggiornamento dei file canon
+Quando l’inserimento di nuove informazioni in un file canon è approvato, l’assistente crea un nuovo file Word completo e coerente che:
+* mantiene tutte le informazioni precedentemente approvate
+* integra le nuove informazioni approvate
+* evita sovrascritture distruttive
+10.3 Decisione finale
+In caso di dubbio interpretativo o strutturale, la decisione finale spetta sempre al giocatore.
+
+
+CAPITOLO  2: Principi Biologici del Mondo
+Progetto: Il Mondo di Mawu
+Tipo: Documento Fondativo
+Stato: Canon
+
+1. Scopo del documento
+Questo documento definisce i principi biologici fondamentali del Mondo di Mawu, con particolare riferimento al continente insulare di Terados.
+Le regole qui descritte stabiliscono il quadro biologico di riferimento entro cui si sviluppano la geografia, le creature, le razze intelligenti e le culture.
+Tali principi hanno valore strutturale e devono essere rispettati da tutti i documenti del progetto.
+2. Ecosistema generale di Terados
+Il continente insulare di Terados, comprese tutte le isole che ne fanno parte, presenta un ecosistema radicalmente distinto da quello tipico dei mondi dominati da fauna mammifera.
+Le forme di vita autoctone dominanti appartengono prevalentemente alle seguenti categorie:
+- rettili
+- anfibi
+- insetti
+- aberrazioni
+3. Assenza di mammiferi
+Su Terados non esistono mammiferi autoctoni.
+L’assenza riguarda fauna selvatica, megafauna, piccoli animali e animali da allevamento.
+Non sono presenti, in forma naturale o stabile, specie equivalenti a cavalli, bovini, canidi o felini.
+4. Eccezione biologica: razze umanoidi
+Le uniche forme di vita mammifere presenti su Terados sono le razze umanoidi intelligenti:
+- Umani
+- Elfi
+- Mezz’elfi
+- Nani
+- Gnomi
+Queste razze costituiscono un’eccezione biologica rispetto all’ecosistema naturale del continente.
+La loro presenza è attestata solo a partire dall’epoca del Grande Impero Serpentino.
+Il presente documento non fornisce spiegazioni sull’origine di tale eccezione.
+5. Razze intelligenti rettiliane
+5.1 Razze rettiliane autoctone
+Sono considerate razze rettiliane autoctone di Terados:
+- Serpenti
+- Draconid
+- Coboldi
+Queste razze rappresentano le forme di intelligenza biologicamente originarie e coerenti con l’ecosistema del continente.
+5.2 Razze rettiliane ibride di epoca imperiale
+Nel corso del Grande Impero Serpentino emersero razze rettiliane ibride, derivate da processi di manipolazione biologica e mescolanza con razze umanoidi.
+- Yuan-Ti (ibridi serpentini)
+- Dragonidi (ibridi draconici)
+- Uomini Lucertola (derivati o ibridi secondari)
+Queste razze, pur essendo biologicamente rettiliane, non sono considerate autoctone in senso pieno, poiché la loro comparsa è storicamente successiva alla fase primordiale del continente.
+6. Creature
+Sono definite creature tutte le forme di vita che non possiedono cultura o civiltà e agiscono prevalentemente per istinto.
+Rientrano in questa categoria rettili non intelligenti, anfibi, insetti, insetti giganti e aberrazioni non senzienti.
+7. Aberrazioni
+Il termine aberrazione indica una categoria biologica ampia e non univoca, utilizzata per descrivere forme di vita percepite come estranee o innaturali.
+Questo documento non stabilisce la loro origine o natura ultima.
+8. Nota metodologica
+I principi biologici descritti non forniscono spiegazioni ultime ma definiscono ciò che è osservabile e coerente.
+Eventuali deviazioni devono essere trattate come anomalie o misteri in-universe.
+9. Stato del documento
+Questo documento è fondativo e vincolante.
+
+
+CAPITOLO 3: TEMPO E CRONOLOGIA
+Progetto: Il Mondo di Mawu
+Tipo: Documento Fondativo
+Stato: Canon
+
+1. Scopo del documento
+
+Il presente documento definisce la struttura oggettiva del tempo nel Mondo di Mawu con particolare riferimento al continente insulare di Terados.
+
+Le regole qui stabilite hanno valore strutturale e vincolante per tutti i documenti del progetto, incluse le Sessioni e i documenti storici.
+
+Il presente documento non descrive eventi storici specifici, ma stabilisce il sistema temporale entro cui tali eventi sono collocati.
+
+2. Struttura dell’anno
+
+L’anno su Terados è composto da 365 giorni.
+
+Esso è suddiviso in:
+- 12 mesi di 30 giorni ciascuno
+- 5 giorni aggiuntivi collocati al termine del Dodicesimo mese
+
+Totale: 360 + 5 = 365 giorni.
+
+I cinque giorni aggiuntivi costituiscono gli ultimi cinque giorni dell’anno.
+
+3. I mesi
+
+I mesi hanno denominazione ufficiale ordinale.
+
+Forma estesa (ufficiale):
+Primo
+Secondo
+Terzo
+Quarto
+Quinto
+Sesto
+Settimo
+Ottavo
+Nono
+Decimo
+Undicesimo
+Dodicesimo
+
+Forma alternativa equivalente:
+I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII
+
+Le due forme sono intercambiabili e hanno identico valore canonico.
+Non sono previsti nomi culturali alternativi.
+
+4. Le Notti Buie
+
+Al termine del Dodicesimo mese si collocano cinque giorni denominati:
+Le Notti Buie
+
+Essi costituiscono gli ultimi cinque giorni dell’anno.
+
+Durante questi cinque giorni:
+- Nessuna luna sorge nel cielo notturno.
+- Il cielo resta privo di presenze lunari.
+
+Il fenomeno non è dovuto a eclissi, condizioni atmosferiche o eventi contingenti.
+È una caratteristica strutturale e ricorrente del funzionamento cosmico di Terados.
+
+In molte culture di Terados, durante le Notti Buie:
+- Non vengono stipulati contratti ufficiali
+- Non vengono dichiarate guerre
+- Non vengono celebrati matrimoni
+
+Il presente documento non stabilisce il valore religioso o culturale del fenomeno, ma ne definisce la ricorrenza oggettiva.
+
+5. Sole e lune
+
+Terados è illuminato da un unico sole.
+
+Il cielo notturno è caratterizzato dalla presenza di quattro lune fisicamente reali:
+- Aelira
+- Velmora
+- Seryth
+- Noxira
+
+Le lune sono corpi celesti materiali e osservabili.
+
+6. Il Ciclo delle Quattro Lune
+
+Le stagioni di Terados sono determinate dalla dominanza lunare.
+
+Ogni stagione ha durata di 90 giorni, corrispondenti a tre mesi consecutivi.
+
+1ª Stagione – L’Ascesa di Aelira
+Mesi: Primo – Secondo – Terzo (I – II – III)
+Il 45° giorno della stagione è detto Giorno della Luce Verticale, quando Aelira appare allo zenit.
+
+2ª Stagione – Il Velo di Velmora
+Mesi: Quarto – Quinto – Sesto (IV – V – VI)
+
+3ª Stagione – Il Ritorno di Seryth
+Mesi: Settimo – Ottavo – Nono (VII – VIII – IX)
+
+4ª Stagione – Il Silenzio di Noxira
+Mesi: Decimo – Undicesimo – Dodicesimo (X – XI – XII)
+
+7. Ciclo solare
+
+Il ciclo solare è regolare e continuo.
+L’anno ha durata costante di 365 giorni.
+
+8. Sistema di datazione
+
+Il computo degli anni è basato sulla Grande Caduta, evento storico formalizzato nei documenti di Storia.
+
+Anno 0 = Grande Caduta
+
+Le abbreviazioni ufficiali sono:
+PC — Prima della Caduta
+DC — Dopo la Caduta
+
+Il dettaglio storico dell’evento e la cronologia completa sono definiti nei documenti canon della cartella 02_Storia.
+
+9. Stato temporale attuale
+
+L’avventura attuale ha inizio il: 9 Decimo 774 DC
+
+
+CAPITOLO 4: TERMINOLOGIA E NOMENCLATURA
+
+Progetto: Il Mondo di Mawu
+Tipo: Documento Fondativo
+Stato: Canon
+
+1. Scopo del documento
+Questo documento stabilisce la terminologia ufficiale utilizzata nel progetto Il Mondo di Mawu, al fine di evitare ambiguità, sovrapposizioni concettuali e fraintendimenti tra i diversi livelli del worldbuilding (cosmologico, geografico, storico, biologico).
+Le definizioni contenute in questo file hanno valore vincolante per tutti gli altri documenti del progetto.
+Il presente documento ha funzione esclusivamente terminologica e metodologica.
+Non introduce spiegazioni di natura storica, biologica o cosmologica, che sono demandate a documenti fondativi specifici.
+
+2. Il Mondo di Mawu
+Con l’espressione Il Mondo di Mawu si indica l’intero mondo conosciuto in cui si svolgono gli eventi del progetto.
+Il nome deriva da Mawu, la divinità creatrice secondo la mitologia diffusa tra le civiltà rettiliane di Terados.
+Non è stabilito se tale divinità esista realmente o se il nome abbia un valore puramente mitologico.
+
+3. Terados
+Terados è il nome del continente principale, un continente insulare composto da più isole.
+
+4. Relazione tra Mawu e Terados
+Il Mondo di Mawu indica il livello cosmologico.
+Terados indica il livello geografico.
+
+5. Terminologia storica e culturale
+I nomi mitologici non implicano verità oggettive.
+Le fonti in-universe possono essere incomplete, distorte o contraddittorie.
+
+6. Nota metodologica
+Questo documento non descrive la creazione del mondo, la natura reale di Mawu, l’origine delle razze o i principi biologici o storici.
+
+7. Statuto dei file visivi
+Le mappe hanno valore canonico informativo.
+Le immagini hanno funzione esclusivamente illustrativa.
+
+8. Organizzazione dei documenti
+L’organizzazione dei documenti canon è definita nel documento fondativo dedicato all’archiviazione.
+
+9. Nota di revisione
+Documento aggiornato per rimuovere ridondanze e contenuti non terminologici.
+
+
+CAPITOLO 5: Geografia del Continente di Terados
+
+
+
+Progetto: Il Mondo di Mawu
+Tipo: Geografia — Continente
+Stato: Canon
+
+1. Inquadramento generale
+Terados è un continente insulare situato nel Mondo di Mawu.
+È composto da una grande isola principale, che porta anch’essa il nome di Terados, e da numerose isole minori che ne costituiscono il sistema continentale.
+
+Il continente è isolato dal resto del mondo conosciuto, non per distanza geografica, ma per l’estrema pericolosità dei mari che lo circondano.
+
+2. Dimensioni e scala
+Terados si estende per circa 3000 leghe dal punto più settentrionale a quello più meridionale, e per una distanza simile da est a ovest.
+
+Secondo le scale comunemente accettate:
+- una lega equivale a circa 1000 passi
+- un individuo a piedi percorre mediamente 50 leghe al giorno
+
+Queste dimensioni rendono Terados un continente vasto, con regioni difficilmente esplorabili e grandi aree ancora sconosciute.
+
+3. Posizione e clima
+Terados si trova nell’emisfero australe del Mondo di Mawu.
+
+Di conseguenza:
+- la fascia settentrionale del continente presenta un clima tropicale
+- il clima diventa progressivamente più temperato e freddo procedendo verso sud
+
+4. Mari e isolamento
+I mari che circondano Terados sono considerati inermi solo in apparenza.
+
+La navigazione è ritenuta possibile esclusivamente entro un limite costiero di acque relativamente basse.
+Oltre tale limite, le spedizioni raramente fanno ritorno.
+
+I racconti dei pochi sopravvissuti parlano di creature colossali e attacchi deliberati contro qualsiasi cosa galleggi.
+
+Tra i marinai circolano nomi pronunciati con timore reverenziale, come:
+- Kraken
+- Leviatani
+- Tartarughe drago
+
+È diffusa l’espressione “Ma va per mare”, usata come augurio di cattiva sorte.
+
+5. Struttura del territorio
+Le zone costiere risultano generalmente fertili e più ospitali per insediamenti stabili.
+Il cuore del continente è occupato da una vasta regione desertica, arida e inospitale.
+
+6. Ecosistemi e fauna
+L’ecosistema di Terados è dominato da forme di vita non mammifere:
+- rettili
+- anfibi
+- insetti
+- aberrazioni
+
+I mammiferi sono assenti, ad eccezione delle razze umanoidi intelligenti.
+
+7. Popolazioni intelligenti
+
+7.1 Razze rettiliane
+Le razze rettiliane includono:
+- Yuan-Ti
+- Dragonidi
+- Coboldi
+- Uomini Lucertola
+
+7.2 Razze umanoidi
+Le razze umanoidi presenti sono:
+- Umani
+- Elfi
+- Mezz’elfi
+- Nani
+- Gnomi
+
+La loro presenza è attestata storicamente solo a partire dall’epoca dell’Impero Yuan-Ti.
+
+8. Considerazioni finali
+Terados è un continente biologicamente ostile alla vita mammifera, isolato da mari pericolosi e caratterizzato da forti contrasti geografici.
+
+9. Stato del documento
+Questo documento descrive lo stato geografico generale del continente di Terados.
+
+
+CAPITOLO 6: LA VALLE
+Tipo: Territorio / Regione
+Stato: Canon (aperto all’espansione)
+
+
+
+1. Inquadramento generale
+La Valle è una vasta regione di frontiera situata a nord di Meridia, ai margini dell’Altopiano centrale di Terados.
+
+Non costituisce una nazione riconosciuta e non è soggetta al controllo stabile di alcun potere statale. È una terra di confine, di passaggio e di fuga, dove l’autorità è frammentata o del tutto assente.
+2. Estensione e cartografia
+La Valle è più ampia dell’area rappresentata sulle mappe ufficiali.
+
+Le carte conosciute mostrano prevalentemente la sua porzione centrale, organizzata attorno al grande bacino noto come Lago dei Cristalli.
+
+Nota di coerenza: “Specchio delle Stelle” è un toponimo distinto (una baia di mare) e non è correlato al Lago dei Cristalli.
+3. Territorio e ambiente
+La Valle presenta una notevole varietà ambientale: rive lacustri, pianure irregolari, aree di transizione verso l’Altopiano e territori marginali scarsamente abitati.
+
+L’ambiente è meno fertile e più instabile rispetto a Meridia, ma offre spazi liberi, risorse non controllate, rifugi naturali e rovine antiche.
+4. Popolazione
+La popolazione della Valle è eterogenea e priva di un’identità unitaria.
+
+È abitata da individui in fuga da altre nazioni, avventurieri, mercenari, comunità indipendenti e gruppi che rifiutano le leggi e le strutture di potere tradizionali.
+
+Umani, elfi e nani convivono con draconici e coboldi, spesso legati più dalla necessità che da una reale integrazione.
+La Valle ospita alcuni insediamenti rilevanti, descritti nella sezione 20.
+
+
+5. Identità della regione
+La Valle non ha confini certi, un’autorità centrale o una legge condivisa.
+
+Ogni comunità applica regole proprie, stringe alleanze temporanee e difende il proprio territorio con mezzi autonomi.
+
+La regione è spesso vista dall’esterno come pericolosa e caotica, ma per chi vi vive rappresenta una possibilità di autodeterminazione.
+6. Relazioni esterne
+Meridia considera La Valle una zona instabile ma utile come cuscinetto naturale.
+
+Non esistono rivendicazioni territoriali ufficiali, ma i rapporti sono segnati da diffidenza, interessi economici indiretti e occasionali interventi non dichiarati.
+7. Stato del documento
+Questo documento definisce La Valle come regione geografica e politica non statale.
+
+Ulteriori dettagli potranno essere sviluppati tramite l’espansione degli insediamenti o con documenti tematici dedicati.
+
+8. Crisi delle Scorte – Inverno 774 DC
+Nell’inverno dell’anno 774 DC, La Valle è stata colpita da un’ondata di gelo anticipata e di intensità superiore alla norma.
+
+Le temperature particolarmente rigide hanno messo in grave difficoltà le popolazioni rettiliane, in particolare coboldi e draconici, molte delle quali hanno abbandonato le zone più remote della regione per cercare rifugio nei pressi degli insediamenti maggiori.
+Borgo Laguancia ha registrato un afflusso massiccio di famiglie in fuga dal freddo. In assenza di scorte sufficienti, le porte della città sono state chiuse per evitare il collasso delle riserve alimentari interne.
+Le carovane di rifornimento destinate a Borgo Laguancia e Porto Rancore hanno subito gravi ritardi. Una di esse è stata assaltata presso il Passo del Sud, aggravando ulteriormente la situazione.
+Porto Rancore ha tentato di rivendicare le scorte superstiti tramite intervento diretto della propria cavalleria, innescando una tensione aperta con Borgo Laguancia.
+
+La crisi ha generato malcontento diffuso tra le popolazioni rettiliane della regione e ha accentuato la fragilità politica della Valle.
+8.1 Complotto di Isskareth
+Nel corso della crisi invernale del 774 DC è emersa un’attività sovversiva interna ai campi profughi coboldi situati all’esterno di Borgo Laguancia.
+Il dragonide Isskareth, precedentemente associato alla linea politica sostenuta da Yosssip Bor, ha promosso un movimento di malcontento e organizzato lo scavo di un tunnel sotterraneo con l’obiettivo di accedere direttamente alla sala del Consiglio cittadino.
+Il punto di raccolta operativo era un antico tempio situato a est delle mura, sotto il quale si estende un complesso sotterraneo di probabile origine imperiale.
+All’interno del sito sono stati rinvenuti:
+* scorte sottratte
+* mappe del tracciato del tunnel
+* strutture serpentiformi animate attivate in risposta a magia offensiva
+* un teschio di dimensioni eccezionali, di origine non determinata
+Lo scontro sotterraneo ha causato la morte di una dragonide associata al gruppo ribelle e il ferimento grave di Isskareth, che è riuscito a fuggire.
+L’evento ha evidenziato la fragilità politica della regione e l’esistenza di strutture sotterranee ancora attive risalenti all’epoca imperiale.
+
+
+
+20. Insediamenti
+
+20.1 BORGO LAGUANCIA
+
+
+Situato sulle rive del Lago dei Cristalli, al centro della Valle, il borgo è stato fondato circa 80 anni fa dall'avventuriero Radu Laguancia (la cui statua campeggia al centro della piazza), sorge all'interno di un antico anfiteatro ed è circondato dalle rovine di una grande città risalente al periodo del Grande Impero Serpentino.
+Ha una spiccata vocazione commerciale ed è il punto di incontro fra i trapper che cacciano nella Valle e i mercanti di Meridia, del Vesper e del Calemord. È governata da un Consiglio cittadino, composto da 6 membri che vengono eletti democraticamente ogni 2 anni e la sua popolazione è estremamente variegata.
+La città sorge dove la terra antica si spezza contro l’acqua, come una cicatrice mai rimarginata.
+L’anfiteatro ciclopico, costruito in blocchi di pietra annerita e consumata, domina la scena: un anello spezzato, enorme, che sembra più un’opera di divinità dimenticate che di mani mortali. Le sue arcate, un tempo levigate, sono ora incrostate di licheni, statue decapitate e bassorilievi corrosi che raffigurano uomini serpente, naga e figure ibride, metà sovrani e metà divinità.
+Davanti all’anfiteatro si apre l’acqua, calma e profonda. Non è una spiaggia vera e propria, ma una riva irregolare di pietra e detriti, dove piccoli moli improvvisati si insinuano tra le rovine sommerse. Barche leggere, chiatte mercantili e gusci ricavati da relitti più antichi oscillano lentamente, mentre luci calde filtrano dalle finestre basse degli edifici costruiti dentro e sotto le gradinate. Lì, dove un tempo ruggiva la folla, ora vive il cuore pulsante della città.
+L’interno dell’anfiteatro è stato riconquistato dalla vita:
+quartieri sovrapposti, tetti di legno e lastre di ardesia, terrazze collegate da corde e passerelle. Fumi di cucine, spezie, alghe essiccate e resine esotiche si mescolano nell’aria. Umani, elfi, nani e gnomi convivono a stretto contatto con draconidi,  uomini serpente e coboldi, non come curiosità esotiche ma come parte integrante del tessuto urbano. Le antiche statue in rovina non sono solo reliquie: sono antenati, simboli politici, moniti silenziosi.
+Alle spalle dell’anfiteatro, la città lascia spazio a una distesa di rovine. Templi crollati, torri spezzate e viali sepolti emergono dalla pianura come ossa gigantesche. Enormi statue di uomini serpente, alcune abbattute, altre ancora in piedi ma inclinate, osservano l’orizzonte con occhi vuoti. Qui si trovano i quartieri più antichi, meno densamente abitati: santuari riconvertiti, mercati temporanei, rifugi di studiosi, culti minori e creature che preferiscono l’ombra alla folla. La convivenza non è sempre pacifica, ma è necessaria.
+Gli umanoidi portano commercio, artigianato e rotte lontane. I rettili custodiscono la memoria della città, le mappe delle rovine, i segreti delle fondamenta e dei tunnel sommersi. Nessuna delle due culture potrebbe sopravvivere senza l’altra.
+Di notte, l’anfiteatro si accende come una corona spezzata. Le luci si riflettono sull’acqua davanti, mentre le rovine alle spalle restano immerse nel buio. È allora che la Borgo Laguancia  mostra la sua vera natura: non una reliquia del passato, ma una città viva, nata dalle ossa di un impero perduto, sospesa tra acqua, pietra e memoria.
+20.1.1 Inquadramento generale
+Borgo Laguancia è un insediamento situato sulle rive del Lago dei Cristalli, nella regione nota come La Valle.
+La città sorge sulle rovine di un antico complesso di origine prevalentemente Yuan-Ti, dominato da un anfiteatro ciclopico di epoca imperiale. L’insediamento non è stato costruito ex novo, ma si è sviluppato riutilizzando e occupando strutture preesistenti.
+
+20.1.2 Struttura urbana
+L’intera area abitata di Borgo Laguancia è racchiusa all’interno delle mura dell’anfiteatro.
+Le abitazioni sono addossate principalmente sul lato occidentale della struttura, mentre le aree settentrionali, nord-orientali ed orientali ospitano le abitazioni più agiate.
+
+20.1.3 Quartieri principali
+- L’Anello (interno dell’anfiteatro)
+- Le Acque Antiche
+- Distretto delle Rovine Serpentine
+- Mercati Erranti
+
+20.1.4 Popolazione
+Popolazione residente stimata: circa 700 persone.
+Razze presenti: Umani, Elfi, Mezz’elfi, Nani, Gnomi, Yuan-Ti, Draconici, Uomini Lucertola, Coboldi.
+ABITANTI NOTI
+ALTEA LUCINDACuoca osteria del lagoUmana allegraDARIO ALMARADICAConsigliere apotecarioUmano barba verde timido e gentileDORA ARVENForno di DoraUmanaIOLANDAVive da yosssipRifugiata coboldaLOBELIA MELFConsigliera e archivistaGnoma anzianaMASTRO LODENPescatoreMezzelfoMASTRO TIMONResponsabile moli e consigliereUmano corpulentoORRENOste della scagliaNanoRESSIKZio di Zoe e CeresCoboldo assiste SerkhalSELYRA BRASSENNobildraga 
+consiglieraDragonide (ottone) chicSERKHALConciatore 
+seconda pelleDragonide neroUMARELOsteria del lagoElfo anziano e allampanatoVANSSceriffo e consigliereMezzelfo sfregiatoYOSSSIP BORBarbiere e consigliere1T sobillatore
+20.1.5 Stratificazione sociale
+Distribuzione verticale e spaziale basata su posizione e qualità delle strutture.
+
+20.1.6 Materiali e clima
+Le strutture in pietra presentano proprietà termoregolanti non completamente comprese.
+Durante l’inverno gruppi di coboldi si ammassano all’esterno delle mura.
+
+20.1.7 Economia
+Commercio lacustre, mercati itineranti, artigianato locale.
+
+20.1.8 Luoghi di rilievo
+* L’Ultima Scaglia, taverna del nano Orren, situata all’interno dell’anfiteatro.
+* Vecchia osteria del lago, gestita da Umarel e Altea-Lucinda, vicino al porto
+* Dario l'apotecario, negozio di erboristeria di Dario Almaradica
+* La seconda pelle, laboratorio di conceria di Serkhal
+* Barberia di Yosssip
+
+20.1.9 Governo locale
+Amministrazione affidata a un Consiglio cittadino.
+20.2 PORTO RANCORE
+
+20.2.1 Inquadramento generale
+Porto Rancore è un insediamento lacustre situato sulle rive del Lago dei Cristalli, nella regione nota come La Valle.
+Sorge sulla sponda opposta rispetto a Borgo Laguancia ed è noto come punto di scambio informale per traffici, contatti e relazioni non sempre regolamentate.
+
+20.2.2 Posizione geografica
+Porto Rancore si affaccia direttamente sul Lago dei Cristalli, in posizione contrapposta a Borgo Laguancia.
+La sua collocazione lo rende un nodo naturale per la navigazione lacustre e per il controllo delle rotte lacustri.
+
+20.2.3 Appartenenza territoriale
+Porto Rancore fa parte della regione de La Valle.
+Non è soggetto a un potere statale riconosciuto.
+
+20.2.4 Funzione e ruolo
+Porto Rancore svolge la funzione di porto lacustre e di snodo di scambio informale.
+È un luogo in cui merci, informazioni e accordi transitano al di fuori delle strutture istituzionali più rigide.
+
+20.2.5 Rapporti con Borgo Laguancia
+I rapporti tra Porto Rancore e Borgo Laguancia sono caratterizzati da tensione e conflittualità latente.
+Porto Rancore si pone come interlocutore assertivo.
+
+
+CAPITOLO 7: MERIDIA
+Tipo: Territorio / Nazione
+Stato: Canon (aperto all’espansione)
+
+
+1. Inquadramento generale
+Meridia è una delle principali nazioni dell’isola di Terados. Si estende lungo la fascia meridionale del continente e occupa un territorio ampio, fertile e densamente abitabile rispetto ad altre regioni.
+
+È considerata una potenza stabile e prospera, punto di riferimento economico e culturale per molte comunità umanoidi.
+2. Territorio e ambiente
+Il territorio di Meridia è caratterizzato da terre coltivabili, coste ospitali e un clima relativamente mite. Queste condizioni hanno favorito la crescita demografica, lo sviluppo agricolo e la nascita di grandi centri urbani.
+3. Capitale: Pomposa
+La capitale di Meridia è Pomposa, considerata da molti la città più grande e una delle più belle di tutta Terados. Pomposa rappresenta il cuore politico, economico e culturale della nazione.
+
+
+4. Popolazione
+Meridia è una nazione a prevalenza umana. Sono presenti anche nani, elfi e altre minoranze umanoidi. La composizione etnica è il risultato dei movimenti di popolazione successivi alla Caduta dell’Impero Yuan-Ti.
+5. I Kortemenn e l’Isola Bianca
+Uno dei principali problemi storici di Meridia è rappresentato dai Kortemenn, nani predoni provenienti dall’Isola Bianca. Per lungo tempo hanno condotto raid costieri, terrorizzando villaggi e rotte commerciali.
+
+In seguito, alcuni gruppi si sono stabiliti permanentemente su tratti della costa meridiana.
+6. Situazione attuale dei Kortemenn
+Nel corso dei decenni, parte dei Kortemenn ha abbandonato la pirateria e si è integrata nella società meridiana. Il rapporto resta complesso e basato su compromessi più che su una reale pacificazione.
+7. Assetto politico
+La forma di governo di Meridia non è esplicitamente definita. Le fonti parlano genericamente di autorità meridiane e istituzioni centrali. Questa indeterminatezza è intenzionale.
+8. Ruolo nel mondo attuale
+Meridia rappresenta un polo di stabilità nel mondo post-imperiale e un termine di paragone per regioni più caotiche come La Valle.
+9. Insediamenti
+
+
+9.1 POMPOSA
+9.1.1 Identità generale
+Pomposa è la capitale della nazione di Meridia ed è considerata la città più grande e una delle più belle dell’isola di Terados.
+9.1.2 Ruolo politico ed economico
+Pomposa costituisce il centro politico, economico e culturale di Meridia. Da qui si irradia l’influenza meridiana su gran parte del sud del continente.
+9.1.3 Popolazione
+La popolazione di Pomposa è prevalentemente umana, con la presenza di minoranze naniche, elfiche e di altre razze umanoidi.
+
+
+CAPITOLO 8: NAAM – ISOLA DI NUUWAA
+Tipo: Territorio / Nazione
+Stato: Canon (aperto all’espansione)
+
+
+1. Inquadramento generale
+Naam è una nazione rettiliana situata sull’isola di Nuuwaa, una grande isola settentrionale del continente insulare di Terados.
+
+Nuuwaa costituisce il principale riferimento geografico, storico e simbolico per il popolo di Naam, una delle società Yuan-Ti sopravvissute alla caduta dell’antico ordine imperiale.
+2. Nomenclatura
+Nel progetto si adottano le seguenti distinzioni terminologiche, di valore vincolante:
+
+- Nuuwaa indica esclusivamente l’isola dal punto di vista geografico
+- Naam indica la nazione e il popolo che abita l’isola
+
+Questi termini non sono intercambiabili e devono essere mantenuti distinti in tutti i documenti canon.
+3. Territorio e ambiente
+Nuuwaa è un’isola vasta, ricoperta da una vegetazione fitta e lussureggiante.
+
+Il paesaggio è dominato da giungle umide e intricate, paludi costiere e foreste antiche in gran parte inesplorate.
+
+Il clima è caldo e umido, favorevole alla biologia rettiliana ma ostile alle razze mammifere non adattate.
+4. Popolazione
+La popolazione di Naam è composta prevalentemente da Yuan-Ti.
+
+La società attuale rappresenta solo una parte residuale rispetto alla vastità e alla complessità delle civiltà Yuan-Ti del passato, ma conserva una forte continuità culturale, una memoria storica profonda e simboli ereditati dall’epoca imperiale.
+5. Eredità dell’Impero Yuan-Ti
+L’antico Impero che dominò vaste porzioni di Terados non apparteneva a una singola nazione, ma all’insieme delle civiltà Yuan-Ti.
+
+Naam rappresenta una delle eredità principali di quell’epoca, senza esaurirne la complessità.
+
+Sull’isola di Nuuwaa sono ancora visibili resti di città imperiali, templi ciclopici e infrastrutture monumentali.
+
+Le fonti storiche su questo periodo sono frammentarie e spesso contraddittorie.
+6. Situazione attuale
+Dopo la Grande Caduta, le società Yuan-Ti superstiti si sono ritirate dai territori continentali.
+
+Naam ha mantenuto una continuità territoriale sull’isola di Nuuwaa, esistendo come entità riconoscibile ma priva di ambizioni espansionistiche.
+7. Relazioni con l’esterno
+I rapporti di Naam con le altre nazioni di Terados sono limitati e improntati alla diffidenza reciproca.
+
+Molte civiltà umanoidi conservano una memoria storica della dominazione Yuan-Ti.
+8. Assetto politico
+L’organizzazione politica interna di Naam non è descritta in modo dettagliato.
+
+Esistono strutture di potere legate alla tradizione Yuan-Ti, ma la loro natura precisa non è oggetto di consenso nelle fonti disponibili.
+9. insediamenti
+9.1CENCRIA
+9.1.1 Identità generale
+Cencria è la capitale della nazione di Naam. Si tratta di un insediamento unico nel suo genere, interamente sviluppato verso il basso all’interno di una vasta depressione naturale, assimilabile a una caldera.
+
+La città non è visibile dall’alto: l’apertura è completamente coperta dalla vegetazione della giungla circostante, rendendo Cencria invisibile a chi non ne conosce l’esatta posizione.
+9.1.2 Posizione geografica
+Cencria è situata alla confluenza dei due principali fiumi dell’isola di Nuuwaa. I corsi d’acqua precipitano all’interno della cavità, alimentando il sistema idrico della città attraverso cascate, infiltrazioni e flussi continui lungo le pareti interne.
+
+La città si trova in piena giungla.
+9.1.3 Struttura urbana
+L’insediamento è organizzato in cerchi concentrici discendenti, che si sviluppano progressivamente verso il basso, come gironi.
+
+La luce solare diretta raggiunge esclusivamente i primi due cerchi superiori. I livelli inferiori sono permanentemente privi di luce solare diretta.
+9.1.4 Ambiente e clima
+Cencria è caratterizzata da un clima estremamente caldo e umido.
+
+Le condizioni ambientali sono determinate da:
+- intensa attività geotermica
+- numerose cascate di acqua calda
+- infiltrazioni costanti d’acqua che sgorgano dalle pareti rocciose
+- elevata umidità dovuta alla confluenza dei fiumi e alla struttura chiusa della cavità
+
+Il calore è persistente a tutti i livelli della città.
+9.1.5 Popolazione
+Gli abitanti di Cencria sono descritti come serpi notturne.
+
+Tratti rilevanti:
+- prediligono il buio e il caldo
+- molti non possono essere toccati dalla luce solare diretta
+- la vita cittadina è naturalmente orientata verso ambienti ombrosi o completamente oscuri
+9.1.6 Visibilità e accesso
+Dall’esterno, Cencria non è individuabile visivamente: l’apertura della caldera è interamente nascosta dalla vegetazione della giungla.
+
+La città si configura come un insediamento occulto, difficilmente localizzabile senza conoscenze dirette o indicazioni precise.
+9.1.7 Stato del documento
+Questo documento stabilisce Cencria come capitale canon della nazione di Naam e ne definisce struttura, posizione e condizioni ambientali fondamentali.
+
+
+CAPITOLO 9: Cronologia Generale di Terados
+
+Nota metodologica
+
+Il presente documento utilizza il sistema temporale definito nel Documento Fondativo “Tempo e Cronologia”, archiviato nella cartella 00_Documento_Fondativo.
+Progetto: Il Mondo di Mawu
+Tipo: Storia – Cronologia
+Stato: Canon
+
+Sistema di datazione
+Il calendario ufficiale di Terados utilizza La Grande Caduta come anno 0.
+Gli anni precedenti sono indicati con la sigla PC (Prima de La Grande Caduta).
+Gli anni successivi sono indicati con la sigla DC (Dopo La Grande Caduta).
+Periodizzazione
+I. Epoca dei Grandi Antichi
+Periodo pre-cronologico (datazione non determinabile).
+II. Il Lungo Vacuo
+Periodo pre-cronologico successivo all’Epoca dei Grandi Antichi e precedente alla Prima Dinastia del Grande Impero Serpentino.
+III. Grande Impero Serpentino
+5967 PC – Prima Dinastia del Grande Impero Serpentino.
+840 PC – Importazione delle popolazioni umanoidi su Terados.
+0 – La Grande Caduta.
+0 – Nascita del Regno di Dromelac (comprendente anche il Calemord).
+0 – Sopravvivenza e continuità delle dinastie Yuan-Ti Bor e Naam.
+IV. Era Post-Imperiale
+0 – Formazione dei nuovi stati successivi a La Grande Caduta.
+774 DC – Inizio dell’avventura attuale.
+
+
+CAPITOLO 10: Leggende e Tradizioni
+Mitologia
+Leggenda delle Origini di Terados
+All’inizio dei tempi, prima che il continente di Terados prendesse forma, regnava solo il caos: acqua, terra e cielo fluttuavano senza ordine, senza peso, senza vita. Su questa distesa informe vegliava Mawu, la divinità creatrice, che cercava di dare forma al mondo. Ma presto si accorse che la Terra era instabile: montagne, foreste e oceani rischiavano di sprofondare nel vuoto.
+
+Allora Mawu chiamò Dan, il serpente cosmico, lungo e potente come l’eternità. Dan si avvolse sette volte attorno al mondo, stabilizzandone le masse e dando forma alla geografia primordiale: dove il suo corpo premeva, nascevano le montagne; dove si rilassava, si formavano valli e pianure; sotto di lui si stendeva l’oceano primordiale. Ancora oggi, Dan veglia sul mondo, assicurandone l’equilibrio e la stabilità.
+
+Poi discese il Serpente Cornuto, il più antico e potente tra i serpenti, portatore di luce e vita. Con corna di cristallo che riflettevano il sole e occhi scintillanti come stelle, strisciò sulla terra primordiale: dove passava, la sabbia e la roccia si sollevavano in dune e montagne; dove arrotolava le spire, si formavano canyon e vallate; dove apriva la bocca, sgorgavano sorgenti e fiumi; con il suo respiro caldo soffiava il vento del deserto. Dal suo corpo nacquero i primi serpenti giganti, padroni e custodi del mondo.
+
+Ancora oggi, i grandi serpenti cosmici vegliano sul mondo: le tempeste improvvise nei deserti di Bor segnano il passaggio di Dan; nelle foreste di Nuuwaa si nascondono antichi templi e cristalli magici del Serpente Cornuto; chi mostra rispetto alla terra e ai serpenti può ricevere visioni, sogni e saggezza ancestrale.
+
+Così il mondo di Terados fu creato e plasmato dai Figli di Ngalyuan, custodi eterni della Terra, del cielo e dell’acqua, e fondatori di dinastie e specie che avrebbero popolato il continente per millenni.
+
+
+CAPITOLO 11: STORIA DI TERADOS
+Il presente documento accorpa i documenti storici relativi ai periodi e agli eventi fondativi di Terados mantenendone il contenuto integrale. La “Cronologia Generale di Terados” resta archiviata separatamente come documento di riferimento sintetico. Il documento “Leggende e Tradizioni” resta separato in quanto raccolta mitologica.
+Epoca dei Grandi Antichi
+Progetto: Il Mondo di Mawu
+Tipo: Storia – Periodo
+Stato: Canon (fonti frammentarie)
+
+1. Nota metodologica
+Le informazioni relative all’Epoca dei Grandi Antichi derivano prevalentemente da tradizioni mitiche raccolte nel documento 'Leggende e Tradizioni'.
+Tali fonti non vengono modificate né riscritte. La ricostruzione storica si limita a confrontare i racconti tradizionali con eventuali ritrovamenti materiali.
+In assenza di fonti documentarie dirette, ogni affermazione relativa a questo periodo è da considerarsi ipotetica.
+2. Collocazione cronologica
+L’Epoca dei Grandi Antichi precede ogni sistema di datazione conosciuto.
+Non esistono riferimenti temporali affidabili né eventi databili. È considerata un’epoca pre-cronologica.
+3. Le fonti
+Le principali fonti su questo periodo sono:
+- Tradizioni rettiliane arcaiche
+- Racconti mitici relativi a Dan e al Serpente Cornuto
+- Frammenti rituali conservati in contesti yuan-ti e draconid
+- Rovine ciclopiche non attribuibili a civiltà storiche note
+Le tradizioni sono spesso contraddittorie e frammentarie.
+4. I Grandi Antichi
+Le tradizioni più antiche delle civiltà rettiliane parlano di un’epoca remota, precedente a ogni forma di impero o civiltà organizzata.
+In questo tempo primordiale compaiono figure note come i Grandi Antichi.
+Secondo le descrizioni mitiche:
+- possedevano una conformazione fisica ibrida tra drago e serpente
+- alcuni presentavano tratti maggiormente draconici
+- altri erano più marcatamente serpentini
+- erano dotati di natura magica estremamente potente
+- utilizzavano una lingua arcaica oggi incomprensibile
+- erano associati a forze elementali e geologiche
+Non è chiaro se i Grandi Antichi costituissero una singola specie, una stirpe primordiale o un insieme di entità differenti.
+Essi non coincidono con le razze rettiliane autoctone note (Serpenti, Draconid, Coboldi) e sono considerati precedenti a tali forme di intelligenza.
+5. La figura di Dan
+La figura di Dan compare nelle tradizioni come serpente cosmico che avvolge e stabilizza il mondo.
+Nella ricostruzione storica non esiste consenso sulla sua natura.
+Le interpretazioni principali sono:
+- Dan come entità cosmologica distinta
+- Dan come uno dei Grandi Antichi
+- Dan come figura mitica simbolica
+Nessuna posizione è unanimemente accettata dagli studiosi.
+6. Tracce materiali
+Le testimonianze attribuibili a questo periodo includono:
+- rovine ciclopiche
+- strutture monumentali in stato avanzato di crollo
+- complessi non riconducibili al Grande Impero Serpentino
+Queste strutture presentano:
+- dimensioni incompatibili con l’architettura storica nota
+- assenza di iscrizioni comprensibili
+- tecniche costruttive non replicate in epoche successive
+L’attribuzione ai Grandi Antichi è ipotetica.
+7. Interpretazione storiografica attuale
+Gli studiosi concordano su tre punti minimi:
+1. Esiste uno strato di civiltà o entità precedente al Grande Impero Serpentino.
+2. Le rovine più antiche non appartengono al GIS.
+3. Le tradizioni rettiliane conservano memoria di un’epoca primordiale.
+Oltre questi punti, ogni ricostruzione resta speculativa.
+Il Lungo Vacuo
+Il Lungo Vacuo
+Progetto: Il Mondo di Mawu
+Tipo: Storia – Periodo
+Stato: Canon (fonti frammentarie)
+
+1. Collocazione cronologica
+Il Lungo Vacuo è il periodo compreso tra l’Epoca dei Grandi Antichi e l’inizio della Prima Dinastia del Grande Impero Serpentino (5967 PC).
+Non esistono date precise né cronologie interne affidabili.
+2. Natura del periodo
+Il Lungo Vacuo è considerato un’epoca di transizione, avvolta nel mistero.
+Le fonti sono scarse e derivano principalmente da tradizioni rettiliane arcaiche, frammenti rituali serpentini e narrazioni successive reinterpretate in epoca imperiale.
+Il nome 'Lungo Vacuo' è di origine storiografica e indica la mancanza di testimonianze dirette.
+3. La separazione del Serpente Cornuto
+Le tradizioni concordano su un punto ricorrente: in un tempo imprecisato, uno dei Grandi Antichi si separò dagli altri.
+Questo essere è ricordato come il Serpente Cornuto.
+Le motivazioni della separazione non sono note. Le versioni mitiche parlano di volontà di creare autonomamente, dissenso tra i Grandi Antichi o ricerca di dominio.
+Non esiste consenso storiografico su tali interpretazioni.
+4. Origine delle razze rettiliane autoctone
+Al Serpente Cornuto viene attribuita l’origine dei rettili non intelligenti e delle prime razze rettiliane intelligenti autoctone:
+- Serpenti
+- Draconid
+- Coboldi
+Secondo le tradizioni, queste razze rappresentano la prima forma di intelligenza biologicamente coerente con Terados.
+Non esistono prove materiali dirette dell’evento originario.
+5. Conflitto per la supremazia
+Le tradizioni parlano di una lunga fase di conflitto tra le tre grandi stirpi rettiliane:
+- Serpenti
+- Draconid
+- Coboldi
+Le narrazioni successive, in particolare di origine serpentiforme, sostengono che i Serpenti prevalsero.
+Per quanto attestabile dalle fonti disponibili, i Coboldi non risultano essere mai stati una potenza dominante su scala continentale.
+Non esistono fonti neutrali o indipendenti che permettano di ricostruire in modo oggettivo l’equilibrio reale di potere tra le stirpi.
+6. Transizione verso l’era imperiale
+Alla fine del Lungo Vacuo emergono strutture proto-statali serpentiformi, organizzazioni gerarchiche stabili e forme embrionali di dominio territoriale.
+La Prima Dinastia del Grande Impero Serpentino (5967 PC) segna la fine convenzionale del periodo.
+Grande Impero Serpentino
+Grande Impero Serpentino
+Progetto: Il Mondo di Mawu
+Tipo: Storia – Periodo
+Stato: Canon
+
+1. Collocazione cronologica
+Il Grande Impero Serpentino ha inizio con la Prima Dinastia nel 5967 PC e termina con La Grande Caduta (Anno 0).
+È il primo periodo pienamente cronologizzato della storia di Terados.
+2. Fondazione e Prima Dinastia (5967 PC)
+La Prima Dinastia segna l’emergere di una struttura imperiale serpentiforme stabile e centralizzata.
+Il potere era detenuto da dinastie di Serpenti, organizzate secondo un sistema gerarchico rigido.
+All’interno dell’Impero erano presenti territori abitati da Draconid e Coboldi, che mantennero identità proprie e forme variabili di autonomia.
+Nel corso dei millenni si verificarono periodi in cui Draconid o Coboldi ottennero margini di indipendenza più ampi, sebbene sempre in forma clientelare rispetto al potere centrale serpentiforme.
+3. Struttura imperiale
+Il Grande Impero Serpentino non fu una realtà immutabile per tutta la sua durata. La sua configurazione politica variò nel tempo, pur mantenendo la centralità delle dinastie serpentiformi.
+Le fonti indicano una struttura fortemente gerarchica, con legame tra autorità politica e tradizione rituale.
+Non vi sono attestazioni di schiavitù sistematica tra le razze rettiliane intelligenti; le relazioni interne sembrano essere state regolate da rapporti di subordinazione politica e clientela, non da riduzione in schiavitù.
+4. Espansione e consolidamento
+Nei millenni successivi l’Impero consolidò il dominio continentale, sviluppò infrastrutture monumentali e perfezionò sistemi amministrativi complessi.
+Le rovine diffuse su tutto il continente appartengono in larga parte a questa fase.
+5. Importazione degli umanoidi (840 PC)
+Nel 840 PC l’Impero oltrepassò i mari che circondano Terados.
+Popolazioni umanoidi furono importate sul continente, inizialmente come risorsa alimentare.
+Il trasporto fu reso possibile da capacità magiche e navali superiori a quelle attuali.
+Gli umanoidi si dimostrarono intelligenti, prolifici e capaci di organizzazione autonoma, alterando progressivamente l’equilibrio interno dell’Impero.
+6. Esperimenti e ibridazione
+In seguito all’arrivo degli umanoidi, l’élite imperiale avviò pratiche di manipolazione biologica.
+Da questi processi emersero:
+- Yuan-Ti (ibridi serpentini)
+- Dragonidi (ibridi draconici)
+- Uomini Lucertola (derivazioni o ibridi secondari)
+I Serpenti, i Draconid e i Coboldi restarono razze autoctone pure.
+Gli Yuan-Ti, pur essendo una razza ibrida, continuarono a detenere il potere imperiale e a governare sulle altre stirpi rettiliane.
+7. Indebolimento interno
+L’introduzione degli umanoidi, la proliferazione delle nuove razze ibride e le tensioni di legittimità contribuirono a destabilizzare l’Impero.
+Parallelamente si registra una progressiva perdita delle grandi capacità magiche che avevano caratterizzato l’epoca imperiale più antica.
+Le cause di tale declino magico non sono chiaramente documentate.
+8. La Grande Caduta (Anno 0)
+Le rivoluzioni di indipendenza portarono al collasso definitivo del Grande Impero Serpentino.
+Con La Grande Caduta cessò il potere imperiale centralizzato e nacquero nuovi stati umanoidi e rettiliani.
+Sopravvissero soltanto due dinastie Yuan-Ti: Bor e Naam.
+I loro discendenti sono noti come Bornaam o semplicemente Yuan-Ti nel linguaggio moderno.
+9. Eredità imperiale
+Il mondo attuale di Terados è costruito sulle rovine del Grande Impero Serpentino e sopra strati di mito più antichi.
+L’influenza culturale, simbolica e architettonica dell’Impero permane in modo diffuso.
+La Grande Caduta
+La Grande Caduta
+Progetto: Il Mondo di Mawu
+Tipo: Storia – Evento / Transizione
+Stato: Canon
+
+1. Collocazione cronologica
+La Grande Caduta costituisce l’Anno 0 del calendario ufficiale di Terados.
+Segna la fine del Grande Impero Serpentino e l’inizio dell’era post-imperiale.
+2. Contesto storico
+Negli ultimi secoli dell’Impero si erano accumulate tensioni politiche, instabilità dinastiche e conflitti interni.
+L’introduzione degli umanoidi, la proliferazione delle razze ibride e la progressiva perdita delle grandi capacità magiche avevano indebolito la struttura centrale.
+Le fonti descrivono un impero formalmente ancora unitario ma sostanzialmente frammentato.
+3. Le rivoluzioni di indipendenza
+La Grande Caduta si manifesta attraverso una serie di rivoluzioni di indipendenza che coinvolsero territori umanoidi e rettiliani.
+Gli umanoidi, ormai numerosi e organizzati, guidarono movimenti insurrezionali contro l’autorità imperiale.
+In alcune regioni si verificarono anche distacchi autonomi di territori rettiliani, già caratterizzati da rapporti clientelari con il potere centrale.
+Non esiste un singolo evento identificabile come causa unica del crollo; la Caduta fu un processo rapido ma strutturalmente preparato da secoli di trasformazioni.
+4. Dissoluzione del potere centrale
+Con La Grande Caduta cessò il potere imperiale centralizzato.
+Le istituzioni dinastiche serpentiformi collassarono o si ritirarono in territori periferici.
+Gran parte delle infrastrutture imperiali rimase intatta ma priva di coordinamento centrale.
+5. Nascita dei nuovi stati
+In seguito alla Caduta si formarono nuovi stati e regni autonomi.
+Nello stesso Anno 0 nacque il Regno di Dromelac, comprendente anche il Calemord.
+Altri territori si organizzarono secondo strutture politiche differenti, ponendo le basi dell’assetto contemporaneo di Terados.
+6. Sopravvivenza delle dinastie Yuan-Ti
+Dopo la dissoluzione imperiale sopravvissero soltanto due dinastie Yuan-Ti: Bor e Naam.
+Tali dinastie mantennero continuità territoriale e identitaria, pur non ricostituendo un impero unitario.
+I loro discendenti sono noti come Bornaam o semplicemente Yuan-Ti nel linguaggio moderno.
+7. Conseguenze storiche
+La Grande Caduta segna l’inizio dell’era post-imperiale e della frammentazione politica del continente.
+Il mondo attuale di Terados è costruito sulle rovine del Grande Impero Serpentino, ereditandone infrastrutture, simboli e stratificazioni culturali.
+La perdita delle grandi capacità magiche imperiali non venne mai completamente invertita.
+
+Reperti archeologici in fase di studio
+Teschio di Borgo Laguancia (774 DC)
+Nel corso dell’inverno 774 DC, durante la Crisi delle Scorte nella regione della Valle, è stato rinvenuto un teschio di dimensioni eccezionali all’interno di un complesso sotterraneo situato a est di Borgo Laguancia.
+Il reperto è stato trovato in un ambiente di probabile origine imperiale, in prossimità di strutture serpentiformi animate ancora attive. In una sala più interna del complesso è stata inoltre identificata una struttura monumentale non pienamente compatibile con l’architettura imperiale nota, comprendente una statua acefala di dimensioni eccezionali con gemma ambra incastonata nel piedistallo.
+Caratteristiche osservate:
+* Dimensioni superiori a quelle di uno gnomo adulto
+* Presenza di scaglie d’oro applicate al reperto
+* Morfologia con caratteristiche compatibili sia con grandi serpenti sia con entità draconiche
+* Collocazione in area oggetto di scavi clandestini
+* Compatibilità strutturale con la statua acefala monumentale rinvenuta nella sala più interna
+Nel corso di un successivo intervento, la ricollocazione del teschio sulla statua ha attivato un meccanismo magico con emissione di vocalizzazione in lingua arcaica non completamente comprensibile. L’attivazione ha coinciso con la riaccensione parziale di strutture serpentiformi animate presenti nel sito.
+L’origine biologica del teschio non è al momento determinata.
+Il reperto è attualmente oggetto di studio e analisi da parte di MessiLina.
+Ulteriori classificazioni o attribuzioni cronologiche saranno formalizzate solo a seguito di verifiche e consolidamento delle informazioni.
+
+
+CAPITOLO 12: CREATURE DI TERADOS
+Tipo: Creature
+Stato: Canon
+
+Artiglio
+Tipo: Creatura apicale rettiliana adattata a climi estremi
+
+Descrizione generale:
+Grande rettile corazzato con scaglie pallide e creste ossee. Corna ricurve, artigli neri e coda armata. Respiro fumante e occhi azzurro glaciale.
+
+Comportamento:
+Predatore calcolatore e territoriale. Non attacca senza valutazione.
+
+Habitat:
+Regioni innevate e ambienti di gelo estremo.
+
+Distribuzione:
+Rara; attestata in zone montane e tundre.
+
+Interazioni con altre specie:
+Preda fauna locale di grandi dimensioni. Evitata dalle comunità intelligenti.
+
+Ruolo ecologico:
+Superpredatore di vertice negli ecosistemi freddi.
+
+Note canon:
+Specie rara. Ulteriori informazioni da integrare in caso di incontro diretto.
+
+Codarossa
+Tipo
+Rettile piumato di piccola taglia.
+Descrizione generale
+Sauro di dimensioni paragonabili a un grosso tacchino, con muso giallo e coda ricoperta di piume rosso brillante da cui deriva il nome comune. Corpo agile, zampe posteriori scattanti e artigli adatti sia alla corsa sia all’attacco rapido.
+Comportamento
+Viene frequentemente impiegato come animale da guardia o da compagnia. È territoriale, vigile e reagisce prontamente a stimoli anomali. Mostra una naturale predisposizione alla sorveglianza e alla segnalazione di intrusioni.
+Habitat
+Diffuso nelle regioni temperate e negli insediamenti umanoidi e rettiliani dove viene allevato o addestrato.
+Distribuzione
+Specie attestata e relativamente comune nelle aree abitate della Valle e in altri territori di Terados.
+Interazioni con altre specie
+Può essere addestrato e mantenuto in prossimità di abitazioni, magazzini o accampamenti. È generalmente diffidente verso estranei. La relazione con il proprietario è di tipo utilitaristico ma stabile.
+Ruolo ecologico
+Predatore di piccola fauna e insetti; in contesti antropizzati svolge funzione di sentinella e deterrente.
+Note canon
+Nell’inverno 774 DC un esemplare ha dimostrato la capacità di individuare e colpire con precisione una forma antropomorfa invisibile evocata magicamente. Ciò suggerisce capacità sensoriali superiori alla sola vista ordinaria. Non è ancora determinato se tale caratteristica sia propria dell’intera specie o legata a particolari condizioni, addestramento o varianti individuali.
+
+Bradipo
+Tipo: Sauro quadrupede da tiro e da soma
+
+Descrizione generale:
+Grande rettile massiccio con arti corti, struttura robusta e lento ma inarrestabile.
+
+Comportamento:
+Docile se allevato; resistente a fatica e carichi pesanti.
+
+Habitat:
+Pianure, zone agricole e regioni abitate.
+
+Distribuzione:
+Diffuso negli insediamenti della Valle.
+
+Interazioni con altre specie:
+Utilizzato come bestia da tiro e da trasporto.
+
+Ruolo ecologico:
+Fondamentale per logistica e commercio terrestre.
+
+Note canon:
+Confermato utilizzo sistematico come mezzo di trasporto durante la Crisi delle Scorte (774 DC).
+Ratto
+Tipo: Sauro bipede carnivoro da cavalcatura
+
+Descrizione generale:
+Rettile agile grande quanto un mulo. Carnivoro e rapido.
+
+Comportamento:
+Aggressivo allo stato brado; addestrabile ma instabile.
+
+Habitat:
+Aree selvagge e territori marginali.
+
+Distribuzione:
+Presente nella Valle; usato come cavalcatura.
+
+Interazioni con altre specie:
+Predatore naturale; addomesticato per uso militare e ricognizione.
+
+Ruolo ecologico:
+Controllo di fauna minore e mezzo rapido di trasporto.
+
+Note canon:
+Confermato utilizzo come cavalcatura operativa durante la Crisi delle Scorte (774 DC).
+Squirro
+Tipo: Sauro arboricolo
+
+Descrizione generale:
+Rettile agile delle dimensioni di un grosso gatto con coda spiralata e scaglie simili a foglie.
+
+Comportamento:
+Curioso, rapido e opportunista.
+
+Habitat:
+Foreste e ambienti arboricoli.
+
+Distribuzione:
+Diffuso in zone boschive.
+
+Interazioni con altre specie:
+Può sottrarre oggetti; preda insetti e piccoli animali.
+
+Ruolo ecologico:
+Controllo di insetti e dispersione semi.
+
+Note canon:
+Specie attestata. Ulteriori osservazioni possibili in caso di interazione diretta.
+
+
+CAPITOLO 13: PERSONAGGI
+A) MessiLina
+PARTE I — SEZIONE SCHEMATICA CANON
+Identità
+Nome: MessiLina
+Razza: Yuan-Ti
+Condizione: doppia personalità alternata (Messi / Lina)
+Natura: due identità distinte nate insieme e coesistenti nello stesso corpo
+Status biologico-culturale: incrocio proibito tra i ceppi Bor (Serpente Arcobaleno) e Naam (Boa Arcobaleno)
+
+
+Origini familiari
+Madre: Yuan-Ti del ceppo Bor (Serpente Arcobaleno)
+- Società matriarcale
+- Culturalmente aperta ad altri ceppi Yuan-Ti
+- Tabù dell’incrocio con i Naam per il rischio di abomini
+
+Padre: Yuan-Ti del ceppo Naam (Boa Arcobaleno)
+- Società isolazionista e suprematista
+- Divieto assoluto di mescolanza
+- Territori chiusi agli stranieri
+
+Entrambi sono figure note nei rispettivi contesti.
+Gli incontri con la figlia sono sempre stati clandestini, brevi e intensi.
+
+
+Le Due Personalità
+
+Messi
+- Classe: Monaco
+- Tradizione: Via dell’Ombra
+- Background: Cloistered Scholar
+- Erborista
+- Saggezza alta, Carisma basso
+- Indole pragmatica, silenziosa, operativa
+
+Lina
+- Classe: Barda
+- Collegio: Glamour
+- Background: Cloistered Scholar
+- Scrittrice e studiosa di storia e mitologia
+- Carisma alto, Saggezza più bassa
+- Idealista, divulgatrice, oratrice
+
+Relazione tra le due:
+- Condividono lo stesso corpo
+- Sono nate così, non è una scissione successiva
+- Quando c’è Lina non c’è Messi, e viceversa
+- Non possono mai incontrarsi direttamente
+- Si definiscono reciprocamente “mia sorella”
+- Si vogliono bene, si accettano, si criticano e si approvano come due sorelle
+
+Meccanica
+- Personalità attiva determinata dal risveglio
+- Una sola coscienza attiva alla volta
+- Condivisione memoria tramite Oreste
+
+
+Oreste
+Specie: Boa Arcobaleno (Epicrates chencria)
+
+Funzioni:
+- Compagno biologico
+- Archivio mnemonico
+- Vettore di continuità tra le personalità
+
+Forma alternativa:
+- Tatuaggio/bracciale sul braccio destro
+- Testa visibile sulla mano
+- Canale di emissione per Spruzzo Velenoso
+
+
+Formazione
+Monastero delle Spire di Thuban
+- Centro massimo di studi di storia e cultura rettiliana
+- Situato sulla cima di un monte (ubicazione da definire)
+- Cittadina sviluppata alle pendici
+- Custodi: Smok (Uomo Lucertola) e Lacertilia (Draconide)
+- Accoglie incroci rettiliani anomali
+- Solo i meritevoli diventano Spire
+
+MessiLina è riconosciuta come Spira.
+Marchio: interno del polso sinistro, sigillo drago/serpente in forma infinita con costellazione del Drago e Aurin modificato al posto di Thuban.
+
+
+Periodo di Caduta Personale
+- Trasferimento in una grande città elfica (nome non definito)
+- Perdita del denaro
+- Deriva in vizi evasivi
+- Incontro con Yosssip Bor
+
+
+Situazione attuale
+Residenza: Borgo Laguancia, piano superiore del negozio di Yosssip Bor
+Non membro del Consiglio ma ritenuta leale
+
+Attività:
+- Lina: spettacoli, comizi, scrittura, studio
+- Messi: incarichi discreti, interventi risolutivi
+
+Stato interiore: stabilità raggiunta ma inquietudine crescente.
+
+
+PARTE II — NARRATIVA CANON
+MessiLina non è nata come gli altri.
+
+Non è una mente spezzata, né una frattura sopravvenuta. 
+È nata così: due identità distinte in un solo corpo.
+
+Quando Lina è presente, Messi non c’è. Quando Messi agisce, Lina tace.
+Non si incontrano mai. Non si sono mai guardate negli occhi.
+Eppure si conoscono intimamente.
+
+Si chiamano “mia sorella”.
+Si criticano.
+Si incoraggiano.
+Si rimproverano.
+Si vogliono bene.
+
+Sono sorelle che condividono tutto, tranne la possibilità di esistere insieme nello stesso momento.
+
+È nata da un’unione proibita tra due ceppi che non avrebbero mai dovuto incontrarsi.
+Sua madre apparteneva ai Bor, Serpenti Arcobaleno legati alla luce e alla terra.
+Suo padre proveniva da Naam, Boa Arcobaleno, popolo isolazionista convinto della propria superiorità.
+
+Dalla loro unione nacque ciò che entrambe le società temevano: un abominio.
+
+MessiLina non conobbe mai una famiglia nel senso tradizionale.
+Conobbe solo incontri rubati al mondo, giorni intensi vissuti presso la dimora dei druidi Smok e Lacertilia, custodi del Monastero delle Spire di Thuban.
+A volte era Messi a guardare il padre. A volte Lina a stringere la madre.
+Mai entrambe insieme.
+
+Nel monastero impararono a convivere. Non a fondersi, ma a coesistere.
+Impararono che la memoria è più antica delle dinastie e che le spire divergenti possono essere custodite invece che distrutte.
+
+Riconosciute degne, furono marchiate come Spire.
+
+Lasciarono il monte a vent’anni. Una grande città elfica sembrò promettere prestigio e futuro.
+Trovarono invece ingenuità, truffe e caduta. 
+Per un tempo che nessuna delle due ama ricordare, persero direzione.
+
+Fu Yosssip Bor a trovarle. Offrì una stanza, un pasto caldo e una possibilità.
+
+Ora vivono sopra il suo negozio a Borgo Laguancia.
+Lina parla di unificazione delle razze. Messi parla poco.
+
+Lina scrive un libro di storia e mitologia. Messi compie azioni che nessuno deve ricordare.
+
+La stabilità è raggiunta. Ma non è destino.
+Le spire non restano mai ferme.
+B) Eldrith Fallstorm
+PARTE I — SEZIONE SCHEMATICA CANON
+Identità
+Nome: Eldrith Fallstorm
+Razza: Elfo
+Condizione: Blood hunter, 
+Natura: posseduto da entità misteriosa (mind flayer)
+Status biologico-culturale: proviene dal regno elfico del Calemord
+
+La giovane Arminie Englada non poteva chiedere di più dalla vita figlia di uno dei più apprezzati Generali dell'esercito elfico e moglie di un influente esponente della Gilda degli armatori aveva inoltre ricevuto conferma dall'arcicustode del tempio della visione del suo stato di gravidanza e del sesso del futuro nascituro . Un maschio avrebbe avuto le porte spalancate sia se avesse scelto la carriera commerciale come suo padre o quella militare come suo nonno. 
+Mentre al settimo cielo immaginava il futuro di suo figlio la sua attenzione venne richiamata dalla sua dama di compagnia " la governante dice che la stanza di cui gli avete chiesto è quella con la porta massiccia chiusa a chiave quella che da fuori ha l'enorme vetrata sempre coperta da tende " il vecchio maggiordomo non aveva avuto il coraggio di negare le chiavi anche se sapeva che il suo signore lo avrebbe rimproverato perché non ammetteva che nessuno potesse entrare in quella stanza senza il suo permesso ma finalmente eccola davanti all'ufficio di suo padre con in mano le chiavi.
+Indecisa se sfidare apertamente l'autorità di suo padre prese la decisione di entrare in fondo quando avrebbe detto a suo padre che il figlio che portava in grembo era il tanto desiderato nipote maschio sicuramente anche lui gli avrebbe concesso l'utilizzo di quella bellissima stanza per la festa durante la quale avrebbe comunicato la lieta notizia a tutta la nobiltà della capitale . Dopo aver aperto la serratura e spinto il pesante battente entrò nella stanza con passo incerto visto che sentiva in qualche maniera di fare qualcosa di sbagliato ma si convinse a continuare pensando che fosse solo una suggestione rimasta da tutte le sgridate prese da bambina quando cercava di sbirciare nell'ufficio di suo padre . Dopo aver aperto le pesanti tende che oscuravano l'enorme vetrata riccamente colorata arminie diede un'occhiata alla stanza molte cose erano coperte da pesanti drappi che sapeva essere messi dal padre in maniera che se fossero stati spostati lui se ne sarebbe accorto ma la curiosità e l'euforia per le notizie della giornata la spinsero a dare un'occhiata sopra la scrivania principale scoprì un oggetto che sembrava fatto di uno strano Cristallo dai colori cangianti in foggia di una testa di lancia custodito dentro una campana di vetro . 
+Dopo averlo osservato con attenzione rimise a posto il panno nella maniera migliore possibile e si diresse verso l'altro drappo che era alla parete a coprire quello che sembrava un quadro . La sua sorpresa fu grande quando si accorse che il drappo non copriva un quadro ma uno specchio riccamente incorniciato da un legno così nero che lei non seppe identificare nonostante tutte le lezioni prese dal vecchio tutore . Attratta inspiegabilmente dai bellissimi intagli della cornice si rese conto che nella parte bassa erano incise delle parole che lei non sapeva leggere finché seguendo con lo sguardo la serie ne trovò una in elfico era un nome Balagunt . Ricordava quel nome era quello di un famoso mago gnomico di cui il padre le aveva parlato in passato famoso perché si vantava di avere viaggiato ovunque e in qualsiasi tempo . "Questo balagunt doveva essere di certo un fanfarone " disse a voce alta . La sua sorpresa fu grande quando appena pronunciata voce alta quel nome lo specchio smise di rimandare la sua immagine e dopo un tempo indefinibile in cui le immagini nello specchio si mossero vorticosamente alla fine si fermarono rimandando le immagini di un uomo calvo dalla pelle stranamente bluastra che osservava uno strano oggetto posato su una scrivania . 
+Sconvolta da cui gli eventi lasciò accadere il mazzo di chiavi che aveva in mano che quando colpirono il pavimento produssero un forte suono metallico. Incredibilmente la figura nello specchio si girò verso di lei e l'orrore la colse quando si rese conto che quell'uomo al posto del volto aveva una lunga serie di tentacoli che partendo dalla sua mandibola gli scendevano fino a metà del torace e uno sguardo così predatorio da intimorirla e bloccarla nello stesso tempo. L'uomo disse alcune frasi in una lingua incomprensibile poi dopo aver puntato i suoi occhi in quelli di Arminie disse "forse per farmi capire devo parlare in elfico molto bene mia giovane signora possa intrattenerti con una storia ? " In quel momento l'elfa si rese conto che l'uomo nello specchio stava proiettando su di lei la sua volontà e facendo un enorme sforzo aiutata dal suo retaggio fatato riuscì a ricoprire di nuovo lo specchio con il drappo e nonostante fosse sconvolta  uscì dalla stanza ...
+Uthomiel Englada sapeva che non c'era altro da fare il verdetto del sapiente del tempio della visione era stato chiaro " sul nascituro grava una anatema che nemmeno con l'occhio fornitomi dal signore della visione riesco a dipanare Ma è lì chiaramente presente come un'ombra che si sovrappone a l'ombra del nascituro " . I'Akisatza  aldarackt "la rescissione" la procedura con cui si sostituiva il nascituro di una Nobile casata portatore di malformazioni o nato morto con il figlio di un servitore della stessa casata nato nello stesso periodo era stata decisa. Il colpo di sciabola che divideva per sempre i destini dello sfortunato da quelli della sua famiglia si stava per compiere. Ma lui  in quel momento non era più solo l'apice della casata Englada lui era Uthomiel lama del destino l'ultimo portatore delle tecniche di spada di una casta guerriera che poteva far risalire le sue origini ai 13 eroi della fondazione della nazione . E la seconda parte della divinazione diceva che quel nuovo Elfo venuto al mondo sarebbe diventato un formidabile combattente anche grazie alla seconda ombra che lo accompagnava . 
+Quindi lui non avrebbe permesso che quello che era comunque suo nipote si perdesse tra i meandri del futuro lontano dalla sua famiglia . Osservò ancora una volta il tatuaggio a forma di luna crescente con due stelle simbolo della sua casata inciso tramite l'arte dei Mastri tatuatori sotto il piede  sinistro del ragazzo e con un ultimo sforzo di volontà lo consegnò alla nutrice dell'orfanotrofio sapendo che lui comunque l'avrebbe seguito durante la sua crescita diventando la sua terza ombra vigile finché non si fossero rivelate le intenzioni della seconda . Mentre camminava coperto da un mantello anonimo verso la propria magione sentì in lontananza il roboante rumore di un tuono che annunciava le prime tempeste autunnali . " Questo cupo cielo accompagna i miei cupi pensieri verso una casa che adesso sarà sicuramente più cupa ". Un sorriso amaro si dipinse sul suo volto al pensiero che avrebbe annotato quelle riflessioni nel suo libro di componimenti poetici che avrebbe voluto lasciare a suo nipote...
+Nonostante la pioggia gelida gli avesse inzuppato i vestiti Eldrith sentiva i polmoni andargli a fuoco . L'unico rumore che sentiva era quello del suo fiato sempre più affannato e il suono ritmico del suo respiro lo accompagnava mentre tra sé e se si diceva questa volta hai proprio esagerato . L'unica soddisfazione era che i suoi compari non lo avevano visto lanciare la borsa con le monete alla vecchia Rutienne che lo attendeva davanti alla piattaforma del primo impianto di sollevamento . 
+Senza neanche fermarsi aveva visto la vecchia gnoma scomparire fra le ombre dei Vicoli che l'avrebbero condotta sicura fino all'orfanotrofio. Con i proventi dei piccoli furti eseguiti da lui e dagli altri suoi sodali durante la cerimonia della celebrazione dell'anniversario del ritorno dei giusti i ragazzi dell'Istituto avrebbero potuto mangiare per almeno un mese e questo gli provocò un leggero sorriso che deformato dalla fatica si trasformò in un ghigno . Un sibilo improvviso interruppe il  flusso dei suoi pensieri e alcune schegge di ceramica provenienti dal piatto esposto sulla porta del vasaio appena andato in frantumi a causa di un dardo di balestra lo colpirono sul viso . Solo una benedizione di Uriel il sobillatore avrebbe potuto salvarlo questa volta perché Zol il verde non si sarebbe accontentato di parole o scuse ma avrebbe preteso le sue mani e molto probabilmente la sua testa . Il ladro che aveva rubato ai ladri Le aveva provate tutte per far perdere le sue tracce Aveva provato perfino a seminare gli orfani della seconda porta attraversando con i piedi cosparsi di grasso i resti del grande falò della piazza Grande di sotto ma i suoi inseguitori lo stavano aspettando anche lì ed oramai il cerchio si stava chiudendo intorno a lui . 
+Il dolore al petto era sempre più forte erano ormai diversi minuti che stava correndo a perdifiato Ma dai richiami con fischi e versi di animali che sentiva e che conosceva bene non aveva più molta speranza di sfuggire Ai cacciatori . Ormai esausto Eldrith estrasse le daghe e innalzando una preghiera al dio della grande visione decise di nascondersi nel Dedalo di pelli e stoffe stese ad asciugare nel vicolo dei tintori e dei conciatori . Infreddolito affaticato con il volto ferito mentre cercava di recuperare un po' di energie Eldrith chiuse gli occhi per un attimo.... ma invece di trovare la concentrazione sentì solo un lamento inumano urlato a pieni polmoni provenire da vicino a lui, da molto vicino a lui pensò per un attimo che forse proveniva proprio dalla sua gola Poi il buio. All'improvviso un odore acre gli inondò le narici e gli provocò alcuni spasmi di tosse è una voce sconosciuta lo invitò a svegliarsi e ad aprire gli occhi. l'immagine di un volto da draconide coperto di cicatrici e con dei denti troppo pronunciati anche per uno della sua razza che spiccavano contro lo sfondo verde delle sue scaglie sì impresse sulla retina di Heldrith. Eldrit scattò per allontanarsi da quel viso e da quell'odore nauseabondo che saliva dalla boccetta che il draconide teneva in mano ma si rese ben presto conto di avere mani e piedi legati molto stretti . 
+Dopo aver imprecato in una lingua che eldrith non conosceva il suo il suo catturatore disse "ho capito non verrai di  tua spontanea volontà " e abbassando una mano grande probabilmente quanto il torace di eldrith lo prese per le caviglie e lo sollevò come se non pesasse niente . Sollevando lo sguardo il giovane elfo si rese conto nonostante fosse a testa in giù che il draconide indossava sopra la sua armatura naturale una stupenda armatura fatta di quelle che sembravano bande e scaglie di cuoio laccate e rivettate insieme completate da un Elmo dello stesso materiale sormontato da due enormi corna vere prese da qualche animale sconosciuto. "Andiamo karak prima che la tua ombra combini altri guai...."il draconide si fermò all'improvviso fissando i piedi del ragazzo e dopo averci sputato e strisciato con la mano artigliata spalancando gli occhi incominciò una specie di cantilena nella sua lingua aspra e incomprensibile che continuò anche dopo essersi caricato il suo malloppo sulle spalle. Eldrith ancora frastornato riuscì solo a guardarsi indietro per capire cosa fosse successo e rimase a bocca aperta nel vedere a terra alcuni dei suoi vecchi compari sdraiati in una pozza di sangue .
+Il draconide doveva essere un ottimo combattente per averli messi in fuga purtroppo pensò Eldrith tra i cadaveri a terra non c'era quello di zol . "Sei stato fortunato stanotte karak le tue stelle hanno vegliato su di te " queste furono le ultime parole che il giovane Elfo sentì prima di svenire di nuovo per la spossatezza .........
+
+
+C) Kael Varn
+PARTE I — SEZIONE SCHEMATICA CANON
+Identità
+Nome: Kael Varn
+Razza: Umano
+Condizione: Ranger 
+Natura: 
+Non sono sempre stato come sono ora.
+Sono nato abbastanza vicino a Meridia da sentire il peso delle sue leggi, abbastanza lontano da sapere che non sempre arrivano in tempo. Laddove le strade finiscono, la gente non cresce con grandi ideali, ma con domande semplici: chi protegge chi? Quanto dura una promessa?
+Da giovane non avevo grandi illusioni, ma braccia forti e questo tanto bastava. 
+Una volta un uomo mi prese con sé, Eldrik Halven, un veterano che aveva servito e poi smesso. 
+Non mi ha mai parlato di onore, mi insegnava solamente a tenere lo scudo alto quando le gambe tremano, a non sprecare il fiato e a colpire solo quando serve. 
+"Sopravvive chi sbaglia meno", mi ripeteva sempre. 
+Ora so che quella frase suonava come una condanna. 
+Sono diventato un uomo d'armi: scorta, difesa, retroguardia, il lavoro sporco che permette agli altri di raccontare storie.  All'epoca era sufficiente. Proteggere, obbedire, andare avanti. 
+Poi però...c'è stata Kardesh. 
+Era una spedizione come tante, mi avevano detto così. Dovevamo aprire una rotta, valutare il terreno, tornare indietro con mappe e conti. Io ero responsabile della sicurezza sul campo: non decidevo di certo la meta, piuttosto come arrivarci vivi. 
+Ricordo ancora i segnali, li sogno la notte madido di sudore. Il silenzio, le tracce, i suoni e gli odori: quelli non erano animali. Dissi che dovevamo andarcene, che dovevamo deviare, salvarci tutti...ma non mi diedero ascolto. Valuteremo domani, dissero. 
+Quel domani non arrivò come lo immaginavano.
+Non fu un assalto glorioso, fu soltanto una mattanza. Colpi nella notte, panico, feriti e mutilati, e sangue, grida, corpi senza vita ovunque. 
+All'alba sapevo già la verità, quella scomoda che nessuno voleva dire ad alta voce: salvarli tutti sarebbe stato impossibile. Presi una decisione, quella decisione: muoversi, subito, con quelli che potevano camminare. 
+Qualcuno rimase indietro, qualcuno venne abbandonadto. Non ho mai detto che fosse giusto, mi sono sempre ripetuto che fosse necessario. 
+QUando tornammo eravamo in pochi, abbastanza perché la spedizione non fosse definita un massacro totale, troppo pochi perché la decisione non avesse un nome inciso sopra...il mio. 
+Non venni processato e non ce ne fu bisogno: le colpe che restano sospese sono sempre le peggiori, quelle che si attaccano all'anima. 
+Kardesh fu uno spartiacque, capii che proteggere a volte non basta. Arrivare quando il pericolo è già arrivato significa scegliere chi perdere, chi sacrificare, ed io non volevo più farlo. 
+Lasciai quel lavoro e non lo feci in modo drammatico, semplicemente smisi di presentarmi dove qualcuno decideva per me e quando rischiare la vita degli altri. 
+Iniziai a muovermi da solo, imparai a leggere il territorio, le creature, le stagioni e tutti quei luoghi che sembrano stabili solo perché qualcuno non li ha ancora disturbati. 
+Mi chiamano ramingo, o Kael Varn. Il nome che avevo prima non ha più importanza, ormai. 
+Se un giorno dovrò scegliere di nuovo, voglio farlo sapendo tutto quello che posso sapere. E se qualcuno dovrà restare indietro voglio che sia perché non c'era davvero un'altra strada. 
+Se per caso chiunque dovesse leggere queste parole e si chiedesse se può fidarsi di me...beh, può fidarsi del fatto che non decido più alla leggera. 
+E' l'unica promessa che faccio ancora. 
+K.V.
+
+Eldrik Halven: è stato il veterano che ha addestrato Kael. Gli ripeteva in continuazione "Sopravvive chi sbaglia meno" ed ora per Kael quella frase è una condanna. Dopo Kardesh, Eldrik non ha difeso Kael, né lo ha accusato. Gli ha soltanto detto: "Hai fatto una scelta, l'unica che sapevi fare. Ora dovrai conviverci." L'ultima volta che lo ha visto è stata l'ultima volta che si è presentato a lavoro, non lo vede da allora. Kael non sa cosa Eldrik pensi davvero sul suo operato. 
+Mira: non era una combattente, era una delle persone che Kael ha salvato quella notte. Forse Mira sa che Kael ha preso la decisione giusta, ma sa anche che qualcun altro non è più tornato. 
+ Alren Dhos: Al contrario di Mira, lui ha perso qualcuno in quella spedizione. Secondo lui Kael ha deciso troppo in fretta, di sicuro poteva esserci un'altra opzione. QUalcuno è morto proprio perché Kael ha scelto di muoversi. 
+Sereth: è qualcuno che agisce nell'ombra, un gancio, qualcuno che può muovere informazioni o favori. Sa anche che Kael usa un nome che non è suo ed anche se non lo ricatta apertamente, gli fa capire che potrebbe farlo. 
+Mira e Alren non conoscono la nuova identità di Kael.
+
+
+D) Dottolo
+PARTE I — SEZIONE SCHEMATICA CANON
+Identità
+Nome: Prof. Dottolo Varn
+Razza: gnomo
+Condizione: Mago 
+Natura: 
+Dotto proviene da Tillulus, un villaggio composto da una trentina di casette negli alberi e una decina di case sotto le collinette (più grandi rispetto alle prime). La casa di Dottolo è una casa sotto una collinetta che poi si sviluppa nel tronco di un albero di quercia molto grande e antica (la più grande del villaggio). Gli abitanti tendono ad avere un nome che richiama la loro professione o abilità (fabbro: Martellino, cuoca: Pagnottella, contadini: Carotino, Zappetta, locandiere: Vinolino, sarto: Agofino ecc) perchè spesso si identificano con il lavoro che amano fare (seguono molto le inclinazioni personali e cercano di vivere in armonia). Gli gnomi più anziani che non possono più lavorare formano il "consiglio dei saggi", guidando la piccola comunità
+la posizione del villaggio è sconosciuta a molti (era già nascosto nei boschi tra i monti, ma ora è anche protetto da una sorta di barriera che lo rende invisibile e irraggiungibile). La barriera è stata eretta dalla madre di Dotto che dopo aver lanciato l'incantesimo è scomparsa.
+La famiglia di Dottolo è benestante: unici 2 maghi nel villaggio, hanno una casa piuttosto grande per degli gnomi, piena di libri, pergamene, anche un piccolo orto... più una biblioteca che una casa in effetti. Infatti, nonostante la scomparsa dei due genitori, il piccolo gnomo non ha avuto ristrettezze economiche ed ha continuato a vivere nella casa di famiglia studiando su tutti i libri a disposizione in casa, mentre aiutava il villaggio (essendo lui, l'ultimo mago disponibile è tenuto in alta considerazione). Il piccolo gnomo non è mai andato troppo lontano dal suo villaggio e dal bosco che lo circonda, per questo cerca di farsi coraggio per esplorare il mondo di cui ha letto solo nei libri: sa che c'è molto altro sapere fuori dal villaggio.
+Dopo aver passato molto tempo sui libri e nel suo piccolo villaggio, sente il desiderio di esplorare il mondo (motivo della sua partecipazione all'avventura) e imparare cose nuove che possono essere utili a lui e al villaggio. In particolare, vuole scoprire che fine abbia fatto la madre (è scomparsa, il corpo mai ritrovato, forse è ancora in vita) e anche capire che incantesimo abbia lanciato per difendere il villaggio (da piccolo gironzolava sempre per casa e con i genitori, quindi conosceva molto bene le varie magie, anche se non sapeva ancora lanciarle e quella magia non l'aveva mai vista). Sa che l'ultimo libro letto dalla madre prima di lanciare il grande incantesimo è stato "Viaggi in luoghi e tempi fantastici" dell'arcimago gnomico Balagunt e ne sta cercando disperatamente una copia
+
+
+APPENDICE A: Diario di MessiLina
+SESSIONE 01
+Data in-universe: 9 Decimo 774 DC
+Giorni in-universe: 9 Decimo 774 DC ? 10 Decimo 774 DC
+Durata: circa 1 giorno e 1 notte
+1) Riepilogo della sessione
+Luoghi principali:
+- Strada innevata a sud di Borgo Laguancia
+- Borgo Laguancia (porte cittadine e barberia di Yosssip Bor)
+- Passo del Sud (bivio dell’assalto alla carovana)
+- Foresta a circa un’ora da Borgo Laguancia
+
+Personaggi incontrati:
+- Yosssip Bor
+- Ken
+- Eldrith Fallstorm
+- Otto (Prof. Dottolo)
+- Lady Manfrina
+- Famiglia di coboldi 'Della Neve'
+- Tre nani briganti
+
+Creature incontrate:
+- Bradipi (bestie da tiro)
+- Ratti (cavalcature)
+
+Eventi rilevanti:
+- Recupero della famiglia Della Neve.
+- Afflusso massiccio di rettili e coboldi fuori dalle mura.
+- Notizia dell’assalto alla carovana al Passo del Sud.
+- Scontro con tre nani briganti.
+- Scontro con la cavalleria di Porto Rancore guidata da Lady Manfrina.
+- Utilizzo di incantesimo coercitivo su Lady Manfrina.
+- Recupero parziale delle scorte.
+- Depistaggio notturno per sfuggire all’inseguimento.
+
+Scoperte / informazioni apprese:
+- L’inverno è arrivato in anticipo ed è più rigido del normale.
+- Borgo Laguancia ha chiuso le porte per insufficienza di scorte.
+- Malcontento crescente tra le popolazioni rettiliane della Valle.
+- Presenza di pagine strappate tra i resti della carovana.
+2) Diario narrativo
+
+Mi sono svegliata nella neve, con il freddo che mi entrava nelle ossa come un pensiero insistente che non riuscivo a scacciare. Ero Lina, ne sono certa, perché la paura negli occhi della famiglia davanti a me non era soltanto diffidenza: era il timore di qualcosa che avevano visto il giorno prima, quando al mio posto c’era mia sorella.
+Accanto a me tremavano quattro piccoli coboldi e due uova strette tra le braccia della madre, mentre il padre cercava di mostrarsi saldo nonostante il gelo. Ho deciso di chiamarli Della Neve, come se dare loro un nome potesse renderli meno fragili in mezzo a quell’immensità bianca. Messi aveva accettato l’incarico da Yosssip il giorno prima: portarli sani e salvi a Borgo Laguancia in cambio di monete d’oro. Lei è pratica, concreta, silenziosa. Io sono… altro. E devo ammettere che, se non ci fosse il suo pragmatismo, saremmo già morte di fame da un pezzo.
+L’inverno era arrivato troppo presto e con una violenza che nessuno sembrava aver previsto, e per i rettili quel freddo non era solo disagio ma minaccia reale. Stavamo ancora cercando di capire come muoverci quando è arrivato un carretto, guidato da uno gnomo agitato che continuava a ripetere “cazzo cazzo cazzo” come se fosse una formula di protezione contro la propria sfortuna. Mi sono avvicinata con cautela, l’ho osservato, ho lasciato che il mio fascino facesse il suo lavoro quanto bastava per assicurarmi che non fosse ostile, e quando ho capito che potevamo fidarci siamo saliti sul suo carro trainato da un bradipo diretto verso le mura. Si chiamava Otto.
+Fuori da Borgo Laguancia c’era un’umanità accatastata e disordinata: coboldi e altri rettili in fuga dalle zone più remote della Valle, famiglie intere accampate alla bell’e meglio nella speranza di trovare riparo dal gelo e dalla fame. Le porte erano chiuse, perché le scorte non sarebbero bastate per tutti, e il malcontento serpeggiava tra i corpi infreddoliti. Tra la folla ho notato un elfo calvo con una lunga barba acconciata alla maniera nanica, che si è presentato come Eldrith, mentre alle porte faceva la guardia Ken con la sua squadra. In mezzo a quel fermento è arrivato un cavaliere ad annunciare che la carovana delle scorte, destinata sia a Borgo Laguancia sia a Porto Rancore, era stata assaltata al Passo del Sud, e la notizia ha acceso gli animi come una scintilla gettata su paglia secca.
+Siamo entrati comunque in città con il carretto e abbiamo raggiunto la barberia di Yosssip, dove ho lasciato la famiglia Della Neve al piano superiore. Eldrith si è premurato subito di chiedere che fossero inviate razioni ai coboldi accampati fuori dalle mura, promettendo di pagarle di tasca propria, ma le scorte erano poche e nemmeno i libri che Otto attendeva erano arrivati. È stato deciso che saremmo andati noi a indagare sull’assalto e a recuperare quanto possibile: io e Otto sul suo carretto trainato dal bradipo, Ken ed Eldrith su un ratto ciascuno.
+Le giornate invernali erano corte e la notte è scesa rapidamente, tanto che ho dovuto affidarmi ai miei piccoli rettili luminosi danzanti per proseguire ancora un poco; ma la nebbia e il buio rendevano il cammino troppo pericoloso e ci siamo accampati. Otto, con tono lamentoso, ci ha confessato che non si aspettava tutto quel trambusto e che avrebbe preferito restare nella sua casetta sotto la collinetta, a leggere un libro raro davanti al camino acceso con un buon vino di bacche, maledicendo la propria voglia di acquistare quei volumi che aveva già pagato ma non ancora ricevuto.
+Quando siamo arrivati al bivio del Passo del Sud, uno dei ratti si è azzoppato e Ken si è fermato per calmarlo e curarlo. Poco più avanti abbiamo trovato carri rovesciati e tre nani briganti intenti a saccheggiare ciò che restava; li abbiamo affrontati, li abbiamo sconfitti o forse semplicemente convinti a desistere, e prima di mandarli via abbiamo perfino dato loro qualche provvista. Abbiamo recuperato due carri ancora utilizzabili, mentre un terzo aveva bisogno di riparazioni, e abbiamo iniziato a caricare ciò che restava delle scorte sui tre carri, tutti trainati da bradipi.
+È stato allora che è arrivata la cavalleria di Porto Rancore, guidata da un’elfa di nome Lady Manfrina, decisa a reclamare le scorte per il proprio insediamento. Ken ha perso il lume della ragione e ha attaccato senza considerare che erano nettamente superiori a noi, e lo scontro è diventato feroce. Quando è stato chiaro che non avremmo retto a lungo, mi sono avvicinata alla loro leader, l’ho fissata negli occhi e le ho intimato di ritirarsi e tornare da dove era venuta. Non ha potuto fare altro che chiamare a raccolta i suoi cavalieri e allontanarsi furiosa, ma sapevamo che l’effetto sarebbe durato soltanto otto ore, così ci siamo affrettati a caricare tutto il possibile.
+Tra i resti della carovana Otto ha trovato soltanto alcune pagine strappate; le ha prese, le ha infilate tra le sue cose e non le ha mostrate a nessuno, né si è preso la briga di leggerle, perché non erano i libri che aveva ordinato. Dice di essere uno studioso, e uno studioso non farebbe mai una cosa simile.
+Ci siamo diretti lentamente verso Borgo Laguancia, consapevoli che i bradipi non conoscono la fretta, e quando, dopo circa un’ora dallo scontro, il buio è tornato a farsi fitto, abbiamo scorto in lontananza delle torce. Eravamo a un’ora di distanza dalla città alla velocità di ratto, così abbiamo deciso che Ken avrebbe corso avanti per chiamare rinforzi mentre noi ci saremmo nascosti nella foresta con due carri, lasciando sulla strada un carro vuoto trainato da un bradipo e cancellando le tracce nella neve perché restassero soltanto quelle dell’esca. Ho raccolto tutti in un silenzio magico, e quando i cavalieri sono passati non hanno udito nulla; hanno seguito il carro, lo hanno trovato vuoto, hanno compreso l’inganno e sono tornati indietro furiosi, ma non sono riusciti a trovarci e alla fine sono rientrati a Porto Rancore.
+Ora stiamo aspettando il ritorno di Ken con le guardie, mentre l’inverno, appena cominciato, si stende sulla Valle come qualcosa che nessuno di noi aveva davvero previsto.
+
+SESSIONE 02
+Data in-universe: 11 Decimo 774 DC
+Giorni in-universe: 11 Decimo 774 DC ? 12 Decimo 774 DC
+Durata: circa 1 giorno e 1 notte
+1) Riepilogo della sessione
+Luoghi principali:
+- Mura di Borgo Laguancia
+- Barberia di Yosssip Bor
+- Sala del Consiglio cittadino
+- Accampamento coboldo fuori le mura
+- Tempio orientale fuori Borgo Laguancia
+- Complesso sotterraneo serpentiforme
+Personaggi incontrati:
+- Yosssip Bor
+- Serek
+- Eldrith Fallstorm
+- Prof. Dottolo (Otto)
+- Ken
+- Selyra Brassen
+- Evansevir 'Vans' Legolfin
+- Korin Veltrame
+- Isskareth
+- Dragonide di alta classe (deceduta)
+- Cobolda incappucciata
+Creature incontrate:
+- Codarossa (capace di colpire una forma antropomorfa invisibile evocata)
+- Statue serpentiformi animate
+Eventi rilevanti:
+- Rientro con scorte camuffate tramite illusione di carbone lanciata da Otto.
+- L’illusione, in un contesto di grave carenza di combustibile, alimenta il malcontento tra i profughi rettiliani e innesca il tentativo di assalto ai carri.
+- Ultimatum di 24 ore da parte di Porto Rancore.
+- Scoperta di tunnel diretto verso la sala del Consiglio.
+- Ritrovamento di un enorme teschio di origine ignota.
+- Attivazione delle statue serpentiformi immediatamente dopo il lancio di un incantesimo offensivo di Otto.
+- Sala pervasa da magia profonda e antica, rilevata ma non approfondita da Otto.
+- Combattimento sotterraneo.
+- Morte della dragonide alleata di Isskareth.
+- Fuga di Isskareth gravemente ferito.
+- Recupero del teschio, delle mappe e di una scaglia d’oro.
+2) Diario narrativo
+Siamo arrivati alle mura di Borgo Laguancia alle prime luci dell’alba, con il freddo che tagliava il respiro e la neve ancora alta ai lati della strada; io guidavo un carro vuoto, mentre Otto ed Eldrith conducevano quello carico di provviste, e prima di avvicinarci troppo alle porte abbiamo coperto le casse con un telo nel tentativo di renderle meno evidenti.
+È stato Otto a decidere di far apparire le scorte come carbone, un’illusione che, in un inverno in cui i rettili stanno morendo di freddo e il combustibile scarseggia quasi più del cibo, non poteva che suonare come una provocazione: tra famiglie che non hanno nulla per scaldare le uova e corpi infreddoliti ammassati fuori dalle mura, quella visione non è stata un gesto di prudenza ma una scintilla gettata sul malcontento.
+La folla non ha visto un inganno, ha visto ciò che manca più del pane, e ha reagito tentando di assaltare i carri; solo l’intervento tempestivo delle guardie cittadine ha impedito che la situazione degenerasse del tutto, permettendoci di spronare i bradipi ed entrare finalmente in città.
+Dentro le mura, Yosssip stava parlando concitatamente con un coboldo dall’aria nervosa, Serek, che si guardava attorno come se ogni ombra potesse nascondere un orecchio indiscreto; ci ha riferito che Isskareth, un dragonide un tempo vicino alla linea politica di Yosssip, stava sobillando i coboldi nei campi profughi e organizzando qualcosa di più pericoloso di un semplice malcontento.
+Prima che la conversazione si chiudesse, Serek mi ha consegnato una lettera destinata a Messi, dicendo che proveniva da Yosssip. L’ho presa senza aprirla: non era per me. La leggerà mia sorella quando sarà il suo turno di veglia.
+Il loro punto di ritrovo era un tempio a est delle mura e, sotto di esso, si stava scavando un tunnel che avrebbe dovuto condurre direttamente alla sala del Consiglio.
+Al Consiglio c’erano tutti, anche Vans, e la Nobildraga ci ha ringraziati per il servizio reso ricordandoci però che le casse della città erano vuote; a me non importava del pagamento, Eldrith ha detto lo stesso, ma Otto non ha nascosto il fastidio per il mancato compenso.
+La discussione è stata interrotta dall’arrivo improvviso di Korin Veltrame, emissario di Porto Rancore, che ha intimato la restituzione delle scorte entro ventiquattro ore, minacciando altrimenti uno scontro armato, e dopo il suo ultimatum il Consiglio ci ha congedati per deliberare.
+Ho dormito, e al risveglio era già sera; sono ancora Lina.
+Sotto la neve e nel buio siamo usciti verso il tempio orientale, attraversando un accampamento coboldo silenzioso e gelato, finché non siamo entrati nell’edificio e abbiamo trovato una grande sala vuota da cui scendeva una scala nell’oscurità.
+Ho evocato Hobbes, il mio amico immaginario, e l’ho mandato avanti lungo il cunicolo scavato dai coboldi, così stretto che Eldrith doveva quasi piegarsi in due; una trappola sonora è scattata quando Hobbes, goffo come solo lui sa essere, l’ha innescata, attirando due guardie cobolde che abbiamo eliminato prima di proseguire.
+La sala sotterranea che abbiamo raggiunto era interamente di pietra e portava i segni di un’antica magnificenza: statue serpentiformi ricoperte di scaglie d’oro dominavano gli angoli, provviste venivano ammassate e suddivise, mappe erano distese su un tavolo accanto a un teschio enorme, più grande di uno gnomo, e in un altro angolo alcuni coboldi stavano scavando un varco per proseguire verso la sala del Consiglio.
+Otto ha percepito che l’intero ambiente era saturo di una magia profonda e antica, lo ha detto quasi distrattamente, come una nota a margine, senza fermarsi a indagarne la natura; quando però ha lanciato un incantesimo offensivo per coprire la ritirata, la sala ha reagito.
+Le statue serpentiformi si sono mosse e i loro occhi si sono accesi di rosso, come se la pietra stessa avesse atteso quel gesto per destarsi, e hanno iniziato ad attaccare indistintamente noi e i ribelli.
+Nel caos che ne è seguito, un Codarossa ha attaccato Hobbes, che è una forma antropomorfa invisibile, e lo ha colpito con precisione nonostante l’assenza di visibilità, dimostrando capacità sensoriali superiori alla norma.
+Il combattimento è stato confuso e brutale: Otto è caduto privo di sensi, io ho dato coraggio a Eldrith perché si sottraesse a una situazione pericolosa, poi sono caduta anch’io nel freddo e nel buio, finché Serek non mi ha riportata in vita con una pozione trovata addosso alla dragonide di alto rango che aveva appena ucciso.
+Alla fine abbiamo distrutto tutte le statue, mentre Isskareth, gravemente ferito, è riuscito a fuggire.
+Io non ho lasciato il teschio; ho insistito perché lo portassimo via, insieme alle mappe del tunnel e a una piccola scaglia d’oro applicata al reperto, e lo abbiamo sollevato con due bastoni, coprendolo con un telo per non attirare attenzioni.
+Ora l’alba si avvicina e il campo profughi si sveglierà presto; dobbiamo entrare in città prima che qualcuno si accorga di ciò che abbiamo portato con noi.
+
+SESSIONE 03
+Data in-universe: 12 Decimo 774 DC ? 13 Decimo 774 DC
+Durata: circa 1 giorno e 1 notte
+
+1) Riepilogo della sessione
+Luoghi principali
+* Tempio orientale fuori Borgo Laguancia
+* Complesso sotterraneo serpentiforme
+* Casa e barberia di Yosssip Bor
+* Borgo Laguancia
+* Tempio (secondo intervento)
+
+Personaggi incontrati
+* Yosssip Bor
+* Eldrith Fallstorm
+* Prof. Dottolo (Otto)
+* Ken
+* Dario l’Apotecario
+* Isskareth
+* Kendra (gigantessa)
+* Due coboldi (deceduti)
+* Guardie cittadine
+
+
+Creature incontrate:
+
+Eventi rilevanti
+* Avvistamento di fiaccole dirette al tempio (probabile ritorno di Isskareth per ripulire il sito).
+* Deposito del teschio e delle mappe presso Yosssip.
+* Pattuglia inviata al tempio su richiesta del Consiglio.
+* Studio preliminare del teschio: morfologia ibrida serpente/drago; scaglie d’oro applicate.
+* Risveglio con personalità attiva: Messi.
+* Attacco di Kendra alla barberia con intento dichiarato: uccidere Yosssip.
+* Coercizione mentale di Kendra da parte di Messi.
+* Fuga di Kendra sui tetti.
+* Lettera di Serek aperta: “Uccidi Isskareth.”
+* Tempesta di neve; nave di Porto Rancore bloccata nel ghiaccio.
+* Ritorno al tempio.
+* Rilevamento di glifo pavimentale nella sala segreta.
+* Identificazione di struttura non compatibile con architettura imperiale nota.
+* Ricollocazione del teschio sulla statua acefala.
+* Attivazione della statua e messaggio in lingua arcaica.
+* Riattivazione parziale delle statue serpentiformi.
+* Assalto di coboldi, Isskareth e Kendra.
+* Morte di Kendra.
+* Rivelazione: Kendra era una Yuan-Ti.
+
+Scoperte / informazioni apprese
+* Il teschio presenta caratteristiche compatibili sia con grandi serpenti sia con entità draconiche.
+* Le scaglie d’oro applicate coincidono con il campione recuperato.
+* La sala sotterranea più interna è probabilmente anteriore al Grande Impero Serpentino.
+* La gemma ambra incastonata nella statua contiene un incantesimo spezzato.
+* La lingua pronunciata dalla statua è arcaica; parola riconosciuta: “dono”.
+* Otto potrebbe aver compreso il messaggio ma non ha condiviso informazioni.
+* Kendra era una Yuan-Ti.
+* Lettera anonima (tramite Serek): ordine diretto di uccidere Isskareth.
+
+2) Diario narrativo
+Non abbiamo avuto il tempo di guardarci indietro.
+Mentre correvamo verso la porta nord, con il fiato corto e la neve che scricchiolava sotto i passi, abbiamo visto in lontananza delle fiaccole: una più grande, molte più piccole, tutte dirette verso il tempio. Non era un caso. Isskareth stava tornando a ripulire ciò che avevamo scoperto e non potevamo permetterci di affrontarlo in quello stato, con le ferite ancora fresche e le forze consumate.
+Siamo andati da Yosssip senza fermarci altrove, abbiamo lasciato il teschio e le mappe, raccontato ciò che era accaduto e poi, semplicemente, ci siamo resi conto che eravamo stremati. Yosssip insisteva perché tornassimo subito, perché impedissimo qualunque ulteriore manovra nel tempio, ma non saremmo stati utili a nessuno così. Alla fine è stato lui a cedere: è andato ad aggiornare il Consiglio e ha fatto inviare una pattuglia di guardie all’ingresso del tempio.
+La sua casa è sempre la stessa, ma quella notte mi è sembrata più affollata del solito: al piano terra l’anticamera con le scale che salgono di fronte all’ingresso; a destra la cucina e la barberia con le sedie e gli specchi; a sinistra la stanza da bagno, quasi un piccolo hammam, con la grande vasca in cui i rettili possono immergersi per facilitare la muta. Al piano superiore, le camere: quella di Yosssip, la nostra e quella degli ospiti, ora occupata dalla famiglia cobolda e da Otto, che Lina aveva invitato a restare per offrire loro un punto d’appoggio in città.
+Prima di dormire ho studiato il teschio. È enorme, più grande dell’intero corpo di uno gnomo, e presenta caratteristiche che non appartengono a una sola stirpe: alcune strutture richiamano quelle di un grande serpente, altre ricordano un drago. Sulla superficie restano poche scaglie d’oro applicate, identiche al campione che avevamo staccato. Non è un semplice resto: è un reperto che parla di un’epoca diversa.
+Quando ci siamo svegliati non ero Lina.
+Ero Messi.
+Ero irritata, e non poco. La casa era piena di ospiti, di mammiferi, di presenze che non avevo scelto. Qualcuno si permetteva perfino di fischiettare nel bagno. Sono scesa le scale come una furia e ho attraversato l’anticamera fino alla stanza dell’hammam, dove ho trovato Otto mezzo svestito; l’ho spinto contro il muro, intimandogli di tacere, quando la porta della bottega si è spalancata con violenza.
+Sulla soglia è apparsa una figura gigantesca, con una spada per mano che, nelle sue mani, sembravano pugnali. Era muscolosa, quasi mascolina nella struttura, vestita di poco più di un bikini perizomico; ha lasciato cadere il mantello caldo che indossava, rivestito di quel piumaggio corto e fitto che hanno gli uccelli sulla testa. Poi ha dichiarato senza esitazione: «Sono Kendra e sono qui per uccidere Yosssip.»
+Eldrit, con mezza barba ancora da rasare, si è tagliato con il rasoio di Yosssip prima di afferrare l’arco e mettersi tra lei e il barbiere. È un gesto che compie sempre prima di combattere: si incide volontariamente. Non ne conosco il motivo. Prima ancora che potessi chiedermelo, avevo già scoccato una freccia. Kendra l’ha afferrata al volo, ma il colpo l’ha ferita. Le ho imposto di andarsene e di non tornare mai più, e la sua mente ha provato a resistere, ma non era abbastanza forte. È uscita.
+Eldrit l’ha seguita per chiedere il motivo di tanto rancore e lei ha risposto che Yosssip aveva ucciso sua moglie e che intendeva vendicarla. L’abbiamo inseguita sui tetti, ma si muoveva con un’agilità felina, saltando e arrampicandosi con una leggerezza incompatibile con la sua mole. Otto, ancora mezzo svestito, è uscito lanciando dardi di fuoco contro di lei, incurante del fatto che la magia non sia ben vista in pubblico su Terados: tutti sanno che esiste, ma non si ostenta.
+Le guardie sono arrivate poco dopo.
+Yosssip ha negato di conoscere Kendra o di aver ucciso qualcuno, e mi è sembrato sincero.
+Ho allora aperto la lettera che Serek aveva consegnato a Lina il giorno prima, dicendo che proveniva da Yosssip ma senza che Lina la leggesse. Dentro c’era scritto soltanto: «Uccidi Isskareth.»
+Ho raccolto il mantello. Davvero un “regalo” inaspettato. Ho chiamato uno dei miei ragazzini di strada e l’ho mandato a sistemare in sartoria. Con questo freddo ci farà comodo.
+Fuori infuriava una tormenta di neve e la nave del nano di Porto Rancore era bloccata in porto a causa del ghiaccio. Otto ha fatto le sue scene, sostenendo che avrebbe proseguito con noi solo se gli avessi chiesto scusa per il mio comportamento; non l’ho fatto. È venuto lo stesso.
+Siamo tornati al tempio: io, Eldrit e Otto. Le guardie di pattuglia hanno dichiarato di non aver visto nessuno entrare o uscire, ma all’interno abbiamo trovato impronte fresche e la trappola nel tunnel era stata riarmata, questa volta in modo da uccidere e non solo fare rumore.
+La grande sala superiore era vuota, con le statue serpentiformi riverse e rovinate come le avevamo lasciate. Abbiamo puntellato il varco verso la stanza più interna e siamo scesi. L’energia magica era ancora lì, densa e diversa da quella che conosciamo oggi, un’eco di qualcosa di più antico. Non c’erano trappole visibili, ma il pavimento presentava piastrelle rialzate che formavano un glifo. L’ho disegnato su un foglio per mostrarlo a Lina.
+Ai lati della stanza c’erano due basamenti vuoti; di fronte al varco si ergeva una scalinata che conduceva a una statua gigantesca, uno scheletro acefalo di animale sconosciuto, montato su un piedistallo in cui era incastonata una gemma color ambra di dimensioni imponenti. Otto ha percepito che la gemma racchiudeva un incantesimo spezzato. La pianta del tempio corrispondeva a quelle note del Grande Impero Serpentino, ma quella sala segreta no: sembrava molto più antica.
+Abbiamo capito che serviva il teschio.
+Sono tornata a prenderlo con le guardie e ho atteso il buio prima di riportarlo. Nel frattempo Otto, invece di studiare il meccanismo delle statue, si è messo a grattare l’oro dalle sculture serpentiformi, un gesto che ho trovato irrispettoso: combattere ciò che ci attacca è una cosa, profanare un tempio è un’altra.
+Con il buio abbiamo posizionato il teschio sulla statua. Otto lo ha fatto levitare fino al piedistallo. La statua si è animata e ha pronunciato parole in una lingua chiaramente arcaica; Otto ha lanciato un incantesimo di comprensione dei linguaggi, ma non ha condiviso ciò che eventualmente ha compreso. Io ho riconosciuto solo un termine, simile alla lingua Yuan-Ti: “dono”.
+Non appena l’incantesimo è stato lanciato, gli occhi dell’unica statua serpentiforme rimasta in piedi si sono riaccesi e Otto ha rimosso il teschio.
+Dal tunnel sono giunte voci.
+Sono usciti due coboldi, che abbiamo ucciso rapidamente. Mi sono nascosta accanto all’imbocco, in attesa di Isskareth, la cui voce risuonava nel cunicolo; non so come abbia fatto a vedermi, ma mi ha individuata e lo scontro è iniziato. Dal tunnel è emersa anche Kendra e il combattimento è degenerato: fuoco, frecce, urla, sangue sulle pietre antiche.
+Kendra si è lanciata verso la sala della statua e ha sollevato le spade per estrarre la gemma dal piedistallo; l’ho colpita più volte dalle ombre tra le colonne, finché l’ultima freccia l’ha abbattuta proprio mentre tentava di strappare la gemma.
+Quando è caduta, ho visto le scaglie.
+Kendra era una Yuan-Ti.
+E questo cambia tutto.
+
